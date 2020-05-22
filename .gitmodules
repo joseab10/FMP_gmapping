@@ -1,0 +1,9 @@
+[submodule "src/slam_gmapping"]
+	path = src/slam_gmapping
+	url = https://github.com/joseab10/slam_gmapping
+[submodule "src/openslam_gmapping"]
+	path = src/openslam_gmapping
+	url = https://github.com/joseab10/openslam_gmapping
+[submodule "src/carmen_publisher"]
+	path = src/carmen_publisher
+	url = https://github.com/joseab10/carmen_publisher
