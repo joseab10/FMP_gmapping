@@ -1,0 +1,137 @@
+<launch>
+
+    <param name="use_sim_time" value="true"/>
+
+    <arg name="ws_path"
+      default="/home/jose/Desktop/FMP_gmapping" />
+
+    <node pkg="gmapping" type="slam_gmapping" name="slam" output="screen">
+      <!-- =============================================================================================================
+           Topic Remaps
+           ========================================================================================================= -->
+      <remap from="scan" to="base_scan"/>
+
+      <!-- =============================================================================================================
+           Parameters
+           ========================================================================================================= -->
+      <!-- ____________________________________________________________
+           TF Frames
+           ____________________________________________________________ -->
+      <!-- The frame attached to the map. (string, default "map") -->
+      <param name="map_frame" value="map"/>
+      <!-- The frame attached to the odometry system. (string, default "odom") -->
+      <param name="odom_frame" value="odom"/>
+      <!-- The frame attached to the mobile base. (string, default "base_link") -->
+      <param name="base_frame" value="base_link"/>
+
+      <!-- ____________________________________________________________
+           Map Size and Resolution
+           ____________________________________________________________ -->
+      <!-- Initial map size (in metres) -->
+      <param name="xmin" value="-50.0"/> <!-- (float, default -100.0) -->
+      <param name="ymin" value="-50.0"/> <!-- (float, default -100.0) -->
+      <param name="xmax" value="50.0"/>  <!-- (float, default  100.0) -->
+      <param name="ymax" value="50.0"/>  <!-- (float, default  100.0) -->
+      <!-- Resolution of the map (in metres per occupancy grid block) (float, default 0.05) -->
+      <param name="delta" value="0.025"/>
+
+      <!-- How long (in seconds) between updates to the map. Lowering this number updates the occupancy grid more often,
+      at the expense of greater computational load. (float, default 5.0) -->
+      <param name="map_update_interval" value="5.0"/>
+
+      <!-- ____________________________________________________________
+           Laser Sensor max Range
+           ____________________________________________________________ -->
+      <!-- The maximum range of the sensor. If regions with no obstacles within the range of the sensor should appear as
+      free space in the map, set maxUrange < maximum range of the real sensor <= maxRange. (float) -->
+      <!-- <param name="maxRange" value="80.0"/> -->
+      <!-- The maximum usable range of the laser. A beam is cropped to this value. (float, default 80.0) -->
+      <param name="maxUrange" value="50.0"/>
+
+      <!-- ____________________________________________________________
+           Odometry Errors
+           ____________________________________________________________ -->
+      <!-- Odometry error in translation as a function of translation (rho/rho) (float, default 0.1) -->
+      <param name="srr" value="0.05"/>
+      <!-- Odometry error in translation as a function of rotation (rho/theta) (float, default 0.2) -->
+      <param name="srt" value="0.005"/>
+      <!-- Odometry error in rotation as a function of translation (theta/rho) (float, default 0.1) -->
+      <param name="str" value="0.05"/>
+      <!-- Odometry error in rotation as a function of rotation (theta/theta) (float, default 0.2) -->
+      <param name="stt" value="0.005"/>
+
+      <!-- The sigma used by the greedy endpoint matching (float, default 0.05) -->
+      <param name="sigma" value="0.05"/>
+      <!-- The kernel in which to look for a correspondence (int, default 1) -->
+      <param name="kernelSize" value="3"/>
+
+      <!-- The optimization step in translation (float, default 0.05) -->
+      <param name="lstep" value="0.05"/>
+      <!-- The optimization step in rotation (float, default 0.05) -->
+      <param name="astep" value="0.05"/>
+
+      <!-- The number of iterations of the scanmatcher (int, default 5) -->
+      <param name="iterations" value="5"/>
+      <!-- The sigma of a beam used for likelihood computation (float, default 0.075) -->
+      <param name="lsigma" value="0.001"/>
+
+      <!-- Gain to be used while evaluating the likelihood, for smoothing the resampling
+      effects (float, default 3.0) -->
+      <param name="ogain" value="3.0"/>
+      <!-- Number of beams to skip in each scan. Take only every (n+1)th laser ray for computing a match
+      (0 = take all rays) (int, default 0) -->
+      <param name="lskip" value="3"/>
+      <!-- Minimum score for considering the outcome of the scan matching good. Can avoid jumping pose estimates in
+      large open spaces when using laser scanners with limited range (e.g. 5m). Scores go up to 600+, try 50 for example
+      when experiencing jumping estimate issues. (float, default 0.0) -->
+      <param name="minimumScore" value="50.0"/>
+
+      <!-- ____________________________________________________________
+           Update Parameters
+           ____________________________________________________________ -->
+      <!-- Process a scan each time the robot translates this far (float, default 1.0) -->
+      <param name="linearUpdate" value="0.20"/>
+      <!-- Process a scan each time the robot rotates this far (float, default 0.5) -->
+      <param name="angularUpdate" value="0.5"/>
+      <!-- Process a scan if the last scan processed is older than the update time in seconds. A value less than zero
+      will turn time based updates off. (float, default: -1.0) -->
+      <param name="temporalUpdate" value="-1.0"/>
+
+      <!-- Number of particles in the filter (int, default 30) -->
+      <param name="particles" value="30"/>
+      <!-- The Neff based resampling threshold (float, default 0.5) -->
+      <param name="resampleThreshold" value="0.5"/>
+
+      <!-- Translational sampling range for the likelihood (float, default 0.01) -->
+      <param name="llsamplerange" value="0.01"/>
+      <!-- Translational sampling step for the likelihood (float, default 0.01) -->
+      <param name="llsamplestep" value="0.01"/>
+      <!-- Angular sampling range for the likelihood (float, default 0.005) -->
+      <param name="lasamplerange" value="0.005"/>
+      <!-- Angular sampling step for the likelihood (float, default 0.005) -->
+      <param name="lasamplestep" value="0.005"/>
+
+      <!-- How long (in seconds) between transform publications. To disable broadcasting transforms, set to 0.
+      (float, default 0.05) -->
+      <param name="transform_publish_period" value="0.05"/>
+      <!-- Threshold on gmapping's occupancy values. Cells with greater occupancy are considered occupied (i.e., set to
+      100 in the resulting sensor_msgs/LaserScan). New in 1.1.0.  (float, default 0.25) -->
+      <param name="occ_thresh" value="0.25"/>
+
+    </node>
+
+    <arg name="cfg_rviz_path" default="/cfg/rviz" />
+    <arg name="cfg_rviz_file" default="fr_079_corr" />
+    <node type="rviz" name="rviz" pkg="rviz"
+      args="-d $(arg ws_path)$(arg cfg_rviz_path)/$(arg cfg_rviz_file).rviz" />
+
+    <arg name="data_path" default="/data/Freiburg/079/" />
+    <arg name="file"
+      default="fr079-complete.gfs" />
+    <node pkg="rosbag" type="play" name="player" output="screen"
+      args="--clock $(arg ws_path)$(arg data_path)/$(arg file).bag"/>
+
+
+
+
+</launch>
