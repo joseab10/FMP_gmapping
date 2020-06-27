@@ -1,6 +1,8 @@
 .cproject
 .project
 .pydevproject
+**/.idea
+**/.vscode
 cmake_install.cmake
 build/
 devel/
@@ -11,3 +13,4 @@ msg_gen/
 srv_gen/
 *.pyc
 *~
+src_reformated/
