@@ -10,3 +10,6 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/joseab10/slam_datasets
+[submodule "src/map_simulator"]
+	path = src/map_simulator
+	url = https://github.com/joseab10/mapSim2D
