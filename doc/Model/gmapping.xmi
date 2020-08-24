@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI xmi.version="1.2" timestamp="2020-05-25T19:44:38" verified="false" xmlns:UML="http://schema.omg.org/spec/UML/1.4">
+ <XMI.header>
+  <XMI.documentation>
+   <XMI.exporter>umbrello uml modeller http://umbrello.kde.org</XMI.exporter>
+   <XMI.exporterVersion>1.6.13</XMI.exporterVersion>
+   <XMI.exporterEncoding>UnicodeUTF8</XMI.exporterEncoding>
+  </XMI.documentation>
+  <XMI.metamodel xmi.version="1.4" xmi.name="UML" href="UML.xml"/>
+ </XMI.header>
+ <XMI.content>
+  <UML:Model name="UML Model" isSpecification="false" xmi.id="m1" isRoot="false" isAbstract="false" isLeaf="false">
+   <UML:Namespace.ownedElement>
+    <UML:Stereotype visibility="public" isSpecification="false" name="folder" isRoot="false" xmi.id="folder" namespace="m1" isAbstract="false" isLeaf="false"/>
+    <UML:Model visibility="public" isSpecification="false" name="Logical View" isRoot="false" xmi.id="Logical_View" namespace="m1" isAbstract="false" isLeaf="false">
+     <UML:Namespace.ownedElement>
+      <UML:Package visibility="public" isSpecification="false" name="Datatypes" isRoot="false" xmi.id="Datatypes" namespace="Logical_View" isAbstract="false" isLeaf="false" stereotype="folder">
+       <UML:Namespace.ownedElement/>
+      </UML:Package>
+     </UML:Namespace.ownedElement>
+    </UML:Model>
+    <UML:Model visibility="public" isSpecification="false" name="Use Case View" isRoot="false" xmi.id="Use_Case_View" namespace="m1" isAbstract="false" isLeaf="false">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model visibility="public" isSpecification="false" name="Component View" isRoot="false" xmi.id="Component_View" namespace="m1" isAbstract="false" isLeaf="false">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model visibility="public" isSpecification="false" name="Deployment View" isRoot="false" xmi.id="Deployment_View" namespace="m1" isAbstract="false" isLeaf="false">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model visibility="public" isSpecification="false" name="Entity Relationship Model" isRoot="false" xmi.id="Entity_Relationship_Model" namespace="m1" isAbstract="false" isLeaf="false">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+   </UML:Namespace.ownedElement>
+  </UML:Model>
+ </XMI.content>
+ <XMI.extensions xmi.extender="umbrello">
+  <docsettings documentation="" viewid="-1" uniqueid="uVBhrNiqtC8mU"/>
+  <listview>
+   <listitem open="1" id="Views" type="800">
+    <listitem open="1" id="Component_View" type="821"/>
+    <listitem open="1" id="Deployment_View" type="827"/>
+    <listitem open="1" id="Entity_Relationship_Model" type="836"/>
+    <listitem open="1" id="Logical_View" type="801">
+     <listitem open="0" id="Datatypes" type="830"/>
+    </listitem>
+    <listitem open="1" id="Use_Case_View" type="802"/>
+   </listitem>
+  </listview>
+ </XMI.extensions>
+</XMI>
