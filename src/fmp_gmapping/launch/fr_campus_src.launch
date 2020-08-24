@@ -28,16 +28,16 @@
            Map Size and Resolution
            ____________________________________________________________ -->
       <!-- Initial map size (in metres) -->
-      <param name="xmin" value="-50.0"/> <!-- (float, default -100.0) -->
-      <param name="ymin" value="-50.0"/> <!-- (float, default -100.0) -->
-      <param name="xmax" value="50.0"/>  <!-- (float, default  100.0) -->
-      <param name="ymax" value="50.0"/>  <!-- (float, default  100.0) -->
+      <param name="xmin" value="-125.0"/> <!-- (float, default -100.0) -->
+      <param name="ymin" value="-125.0"/> <!-- (float, default -100.0) -->
+      <param name="xmax" value="125.0"/>  <!-- (float, default  100.0) -->
+      <param name="ymax" value="125.0"/>  <!-- (float, default  100.0) -->
       <!-- Resolution of the map (in metres per occupancy grid block) (float, default 0.05) -->
-      <param name="delta" value="0.025"/>
+      <param name="delta" value="0.05"/>
 
       <!-- How long (in seconds) between updates to the map. Lowering this number updates the occupancy grid more often,
       at the expense of greater computational load. (float, default 5.0) -->
-      <param name="map_update_interval" value="5.0"/>
+      <param name="map_update_interval" value="2.0"/>
 
       <!-- ____________________________________________________________
            Laser Sensor max Range
@@ -63,7 +63,7 @@
       <!-- The sigma used by the greedy endpoint matching (float, default 0.05) -->
       <param name="sigma" value="0.05"/>
       <!-- The kernel in which to look for a correspondence (int, default 1) -->
-      <param name="kernelSize" value="1"/>
+      <param name="kernelSize" value="3"/>
 
       <!-- The optimization step in translation (float, default 0.05) -->
       <param name="lstep" value="0.05"/>
@@ -71,7 +71,7 @@
       <param name="astep" value="0.05"/>
 
       <!-- The number of iterations of the scanmatcher (int, default 5) -->
-      <param name="iterations" value="5"/>
+      <param name="iterations" value="10"/>
       <!-- The sigma of a beam used for likelihood computation (float, default 0.075) -->
       <param name="lsigma" value="0.075"/>
 
@@ -90,12 +90,12 @@
            Update Parameters
            ____________________________________________________________ -->
       <!-- Process a scan each time the robot translates this far (float, default 1.0) -->
-      <param name="linearUpdate" value="1.0"/>
+      <param name="linearUpdate" value="0.50"/>
       <!-- Process a scan each time the robot rotates this far (float, default 0.5) -->
-      <param name="angularUpdate" value="0.5"/>
+      <param name="angularUpdate" value="0.05"/>
       <!-- Process a scan if the last scan processed is older than the update time in seconds. A value less than zero
       will turn time based updates off. (float, default: -1.0) -->
-      <param name="temporalUpdate" value="3.0"/>
+      <param name="temporalUpdate" value="0.50"/>
 
       <!-- Number of particles in the filter (int, default 30) -->
       <param name="particles" value="30"/>
@@ -125,9 +125,9 @@
     <node type="rviz" name="rviz" pkg="rviz"
       args="-d $(arg ws_path)$(arg cfg_rviz_path)/$(arg cfg_rviz_file).rviz" />
 
-    <arg name="data_path" default="/data/Freiburg/079/" />
+    <arg name="data_path" default="/data/Freiburg/Campus/" />
     <arg name="file"
-      default="fr079-complete.raw.2" />
+      default="fr-campus-20040714.raw" />
     <node pkg="rosbag" type="play" name="player" output="screen"
       args="--clock $(arg ws_path)$(arg data_path)/$(arg file).bag"/>
 

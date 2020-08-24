@@ -98,7 +98,7 @@
       <param name="temporalUpdate" value="-1.0"/>
 
       <!-- Number of particles in the filter (int, default 30) -->
-      <param name="particles" value="30"/>
+      <param name="particles" value="100"/>
       <!-- The Neff based resampling threshold (float, default 0.5) -->
       <param name="resampleThreshold" value="0.5"/>
 
@@ -125,9 +125,9 @@
     <node type="rviz" name="rviz" pkg="rviz"
       args="-d $(arg ws_path)$(arg cfg_rviz_path)/$(arg cfg_rviz_file).rviz" />
 
-    <arg name="data_path" default="/data/Freiburg/079/" />
+    <arg name="data_path" default="/data/Freiburg/079" />
     <arg name="file"
-      default="fr079-complete" />
+      default="fr079-complete.raw" />
     <node pkg="rosbag" type="play" name="player" output="screen"
       args="--clock $(arg ws_path)$(arg data_path)/$(arg file).bag"/>
 
