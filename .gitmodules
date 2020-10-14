@@ -8,7 +8,7 @@
 	path = src/carmen_publisher
 	url = https://github.com/joseab10/carmen_publisher
 [submodule "data"]
-	path = data
+	path = src/slam_datasets
 	url = https://github.com/joseab10/slam_datasets
 [submodule "src/map_simulator"]
 	path = src/map_simulator
