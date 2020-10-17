@@ -1,0 +1,3207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="4364px" height="2892px" viewBox="1884 -1026.1 4364 2892" style="enable-background:new 1884 -1026.1 4364 2892;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:#C0C0C0;enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:13px;}
+	.st5{fill:#EBFFD8;}
+	.st6{font-family:'ArialMT';}
+	.st7{font-family:'Arial-BoldItalicMT';}
+	.st8{fill:#FFD8D8;}
+	.st9{fill:#FFFFD8;}
+	.st10{fill:#FFEBD8;}
+	.st11{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3;}
+	.st12{fill:#A3E0FF;}
+</style>
+<g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1907" y="-1003.1" class="st0" width="1737.6" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1907" y="-989.1" class="st0" width="4344" height="2858"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1900" y="-995.1" class="st1" width="4344" height="2857"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1900-995.1h4344v2857H1900V-995.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1900" y="-1010.1" class="st1" width="1737.6" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1900-1010.1h1737.6v15H1900V-1010.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1900" y="-996.1" class="st1" width="4344" height="2858"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1900-996.1h4344v2858H1900V-996.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3629.6-1007.1v4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3626.6-999.1v-4h6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3632.6-999.1v-4h-6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4008.4092 -975.61)" class="st3 st4">OpenSLAMGmapping</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1923" y="-971.1" class="st0" width="1683.2" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1923" y="-957.1" class="st0" width="4208" height="2618"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1916" y="-963.1" class="st1" width="4208" height="2617"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1916-963.1h4208v2617H1916V-963.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1916" y="-978.1" class="st1" width="1683.2" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1916-978.1h1683.2v15H1916V-978.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1916" y="-964.1" class="st1" width="4208" height="2618"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1916-964.1h4208v2618H1916V-964.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3990.0105 -943.61)" class="st3 st4">GMapping</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3099" y="636.9" class="st0" width="892.8" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3099" y="650.9" class="st0" width="2232" height="858"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3092" y="644.9" class="st1" width="2232" height="857"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3092,644.9h2232v857H3092V644.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3092" y="629.9" class="st1" width="892.8" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3092,629.9h892.8v15H3092V629.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3092" y="643.9" class="st1" width="2232" height="858"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3092,643.9h2232v858H3092V643.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3976.8,632.9v4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3973.8,640.9v-4h6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3979.8,640.9v-4h-6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4197.1611 664.39)" class="st3 st4">grid</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4387" y="668.9" class="st0" width="364.8" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4387" y="682.9" class="st0" width="912" height="794"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4380" y="676.9" class="st1" width="912" height="793"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4380,676.9h912v793h-912V676.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4380" y="661.9" class="st1" width="364.8" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4380,661.9h364.8v15H4380V661.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4380" y="675.9" class="st1" width="912" height="794"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4380,675.9h912v794h-912V675.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4736.8,664.9v4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4733.8,672.9v-4h6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4739.8,672.9v-4h-6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4823.3555 696.39)" class="st3 st4">map</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1947" y="476.9" class="st0" width="448" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1947" y="490.9" class="st0" width="1120" height="546"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1940" y="484.9" class="st1" width="1120" height="545"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1940,484.9h1120v545H1940V484.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1940" y="469.9" class="st1" width="448" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1940,469.9h448v15h-448V469.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1940" y="483.9" class="st1" width="1120" height="546"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1940,483.9h1120v546H1940V483.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2380,472.9v4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2377,480.9v-4h6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2383,480.9v-4h-6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2480.4905 504.39)" class="st3 st4">sensor</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2155" y="772.9" class="st0" width="432" height="216"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2148" y="765.9" class="st5" width="432" height="216"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2148,765.9h432v216h-432V765.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2148,790.9h432"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2148,843.9h432"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2324.251 785.39)" class="st3 st4">RangeSensor</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 808.39)" class="st6 st4">+newFormat: bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 823.39)" class="st6 st4">#m_pose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 838.39)" class="st6 st4">#m_beams: vector&lt;Beam&gt;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 861.39)" class="st6 st4">«constructor»+RangeSensor(name: string)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 876.39)" class="st6 st4">«constructor»+RangeSensor(name: string, beams: unsigned int, res:</text>
+			<text transform="matrix(1 0 0 1 2153 889.39)" class="st6 st4">double, position: OrientedPoint &amp; = OrientedPoint(0, 0, 0), span: double</text>
+			<text transform="matrix(1 0 0 1 2153 902.39)" class="st6 st4">= 0, maxrange: double = 89.0)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 917.39)" class="st6 st4">«inline»+beams(): const vector&lt;Beam&gt;&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 932.39)" class="st6 st4">«inline»+beams(): vector&lt;Beam&gt;&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 947.39)" class="st6 st4">«inline»+getPose(): const OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2153 962.39)" class="st6 st4">+updateBeamsLookup()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1979" y="772.9" class="st0" width="131.5" height="120"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1972" y="765.9" class="st1" width="131.5" height="120"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1972,765.9h131.5v120H1972V765.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1972,803.9h131.5"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2014.6272 783.39)" class="st6 st4">«struct»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2020.7686 798.39)" class="st3 st4">Beam</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 821.39)" class="st6 st4">+pose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 836.39)" class="st6 st4">+span: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 851.39)" class="st6 st4">+maxRange: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 866.39)" class="st6 st4">+s: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 881.39)" class="st6 st4">+c: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2411" y="572.9" class="st0" width="207" height="115"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2404" y="565.9" class="st1" width="207" height="115"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2404,565.9h207v115h-207V565.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2404,590.9h207"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2404,613.9h207"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2489.8059 585.39)" class="st7 st4">Sensor</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2409 608.39)" class="st6 st4">#m_name</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2409 631.39)" class="st6 st4">«constructor»+Sensor()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2409 646.39)" class="st6 st4">«destructor»+~Sensor()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2409 661.39)" class="st6 st4">+getName(): std::str</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2409 676.39)" class="st6 st4">+setName(name: const std::str &amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2107" y="580.9" class="st0" width="124" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2100" y="573.9" class="st1" width="124" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2100,573.9h124v52h-124V573.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2128.0273 591.39)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2128.7605 606.39)" class="st3 st4">SensorMap</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2619" y="772.9" class="st0" width="399" height="85"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2612" y="765.9" class="st1" width="399" height="85"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2612,765.9h399v85h-399V765.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2612,790.9h399"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2612,813.9h399"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2762.3691 785.39)" class="st3 st4">OdometrySensor</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2617 808.39)" class="st6 st4">#m_ideal: bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2617 831.39)" class="st6 st4">«constructor»+OdometrySensor(name: const std::str &amp;, ideal: bool)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2617 846.39)" class="st6 st4">+isIdeal(): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2103,789.9h45"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2134,789.9c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S2134,793.8,2134,789.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2134,789.9c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S2134,793.8,2134,789.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2134,789.9h14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2141,796.9v-14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2324,765.9v-56h104v-29"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2436.4,701.2l-8.4-20.3l-8.4,20.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2436.4,701.2l-8.4-20.3l-8.4,20.3H2436.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2772,765.9v-48h-248v-37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2532.4,701.2l-8.4-20.3l-8.4,20.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2532.4,701.2l-8.4-20.3l-8.4,20.3H2532.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3107" y="-467.1" class="st0" width="601.6" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3107" y="-453.1" class="st0" width="1504" height="1082"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3100" y="-459.1" class="st1" width="1504" height="1081"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3100-459.1h1504v1081H3100V-459.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3100" y="-474.1" class="st1" width="601.6" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3100-474.1h601.6v15H3100V-474.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3100" y="-460.1" class="st1" width="1504" height="1082"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3100-460.1h1504v1082H3100V-460.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3693.6-471.1v4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3690.6-463.1v-4h6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3696.6-463.1v-4h-6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3814.79 -439.61)" class="st3 st4">scanmatcher</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3947" y="-35.1" class="st0" width="117.4" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3940" y="-42.1" class="st1" width="117.4" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3940-42.1h117.4v37H3940V-42.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3964.7173 -24.61)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3948.1182 -9.61)" class="st3 st4">CovarianceMatrix</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3147" y="-411.1" class="st0" width="716" height="1016"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3140" y="-418.1" class="st8" width="716" height="1016"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3140-418.1h716v1016h-716V-418.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3140-393.1h716"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3140,4.9h716"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3459.7046 -398.61)" class="st3 st4">ScanMatcher</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -375.61)" class="st6 st4">+nullLikelihood: const double</text>
+			<path class="st2" d="M3145-375.6h167.3"/>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -360.61)" class="st6 st4">#m_activeAreaComputed: bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -345.61)" class="st6 st4">#m_laserBeams: unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -330.61)" class="st6 st4">#m_laserAngles[LASER_MAXBEAMS]: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -315.61)" class="st6 st4">#m_laserPose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -300.61)" class="st6 st4">#m_laserMaxRange: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -285.61)" class="st6 st4">#m_usableRange: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -270.61)" class="st6 st4">#m_gaussianSigma: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -255.61)" class="st6 st4">#m_likelihoodSigma: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -240.61)" class="st6 st4">#m_kernelSize: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -225.61)" class="st6 st4">#m_optAngularDelta: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -210.61)" class="st6 st4">#m_optLinearDelta: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -195.61)" class="st6 st4">#m_optRecursiveIterations: unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -180.61)" class="st6 st4">#m_likelihoodSkip: unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -165.61)" class="st6 st4">#m_llsamplerange: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -150.61)" class="st6 st4">#m_llsamplestep: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -135.61)" class="st6 st4">#m_lasamplerange: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -120.61)" class="st6 st4">#m_lasamplestep: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -105.61)" class="st6 st4">#m_generateMap: bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -90.61)" class="st6 st4">#m_enlargeStep: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -75.61)" class="st6 st4">#m_fullnessThreshold: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -60.61)" class="st6 st4">#m_angularOdometryReliability: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -45.61)" class="st6 st4">#m_linearOdometryReliability: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -30.61)" class="st6 st4">#m_freeCellRatio: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -15.61)" class="st6 st4">#m_initialBeamsSkip: unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -0.61)" class="st6 st4">#m_linePoints: IntPoint*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 22.39)" class="st6 st4">«constructor»+ScanMatcher()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 37.39)" class="st6 st4">«destructor»+~ScanMatcher()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 52.39)" class="st6 st4">+icpOptimize(pnew: OrientedPoint&amp;, map: const ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*):</text>
+			<text transform="matrix(1 0 0 1 3145 65.39)" class="st6 st4">double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 80.39)" class="st6 st4">+optimize(pnew: OrientedPoint&amp;, map: const ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*):</text>
+			<text transform="matrix(1 0 0 1 3145 93.39)" class="st6 st4">double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 108.39)" class="st6 st4">+optimize(mean: OrientedPoint&amp;, cov: CovarianceMatrix&amp;, map: const ScanMatcherMap&amp;, p: const OrientedPoint&amp;,</text>
+			<text transform="matrix(1 0 0 1 3145 121.39)" class="st6 st4">readings: const double*): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 136.39)" class="st6 st4">+registerScan(map: ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 151.39)" class="st6 st4">+setLaserParameters(beams: unsigned int, angles: double*, lpose: const OrientedPoint&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 166.39)" class="st6 st4">+setMatchingParameters(urange: double, range: double, sigma: double, kernsize: int, lopt: double, aopt: double, iterations:</text>
+			<text transform="matrix(1 0 0 1 3145 179.39)" class="st6 st4">int, likelihoodSigma: double = 1, likelihoodSkip: unsigned int = 0)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 194.39)" class="st6 st4">+invalidateActiveArea()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 209.39)" class="st6 st4">+computeActiveArea(map: ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 224.39)" class="st6 st4">+icpStep(pret: OrientedPoint &amp;, map: const ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 239.39)" class="st6 st4">+score(map: const ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 254.39)" class="st6 st4">+likelihoodAndScore(s: double&amp;, l: double&amp;, map: const ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const</text>
+			<text transform="matrix(1 0 0 1 3145 267.39)" class="st6 st4">double*): unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 282.39)" class="st6 st4">+likelihood(lmax: double&amp;, mean: OrientedPoint&amp;, cov: CovarianceMatrix&amp;, map: const ScanMatcherMap&amp;, p: const</text>
+			<text transform="matrix(1 0 0 1 3145 295.39)" class="st6 st4">OrientedPoint&amp;, readings: const double*): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 310.39)" class="st6 st4">+likelihood(_lmax: double&amp;, _mean: OrientedPoint&amp;, _cov: CovarianceMatrix&amp;, map: const ScanMatcherMap&amp;, p: const</text>
+			<text transform="matrix(1 0 0 1 3145 323.39)" class="st6 st4">OrientedPoint&amp;, odometry: Gaussian3&amp;, readings: const double*, gain: double = 180.): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 338.39)" class="st6 st4">+laserAngles(): const double*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 353.39)" class="st6 st4">+laserBeams(): unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 368.39)" class="st6 st4">+getlaserPose(): OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 383.39)" class="st6 st4">+setlaserPose(laserPose: OrientedPoint)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 398.39)" class="st6 st4">+getlaserMaxRange(): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 413.39)" class="st6 st4">+setlaserMaxRange(laserMaxRange: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 428.39)" class="st6 st4">+Operation6()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 443.39)" class="st6 st4">+Operation7()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 458.39)" class="st6 st4">+Operation8()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 473.39)" class="st6 st4">+Operation9()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 488.39)" class="st6 st4">+Operation12()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 503.39)" class="st6 st4">+Operation13()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 518.39)" class="st6 st4">+Operation14()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 533.39)" class="st6 st4">+Operation15()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 548.39)" class="st6 st4">+Operation16()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3940-26.1h-84"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M3856-26.1c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S3856-22.2,3856-26.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3856-26.1c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S3856-22.2,3856-26.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3870-26.1h-14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3863-33.1v14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1947" y="-939.1" class="st0" width="451.2" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1947" y="-925.1" class="st0" width="1128" height="1362"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1940" y="-931.1" class="st1" width="1128" height="1361"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1940-931.1h1128v1361H1940V-931.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1940" y="-946.1" class="st1" width="451.2" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1940-946.1h451.2v15H1940V-946.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1940" y="-932.1" class="st1" width="1128" height="1362"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1940-932.1h1128v1362H1940V-932.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2383.2-943.1v4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2380.2-935.1v-4h6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2386.2-935.1v-4h-6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2468.9609 -911.61)" class="st3 st4">gridfastslam</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2768-746.1v-48h116v48"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2879.8-756.3l4.2,10.2l4.2-10.2l-4.2-11.8"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2879.8-756.3l4.2,10.2l4.2-10.2l-4.2-11.8L2879.8-756.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2908.5 -752.61)" class="st6 st4">+parent</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2700-506.1h-247"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2453-506.1c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S2453-502.2,2453-506.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2453-506.1c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S2453-502.2,2453-506.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2467-506.1h-14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2460-513.1v14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2707" y="-739.1" class="st0" width="344" height="240"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2700" y="-746.1" class="st9" width="344" height="240"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2700-746.1h344v240h-344V-746.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2700-708.1h344"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2700-565.1h344"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2848.8787 -728.61)" class="st6 st4">«struct»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2852.4905 -713.61)" class="st3 st4">TNode</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -690.61)" class="st6 st4">+pose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -675.61)" class="st6 st4">+weight: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -660.61)" class="st6 st4">+accWeight: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -645.61)" class="st6 st4">+gweight: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -630.61)" class="st6 st4">+parent: TNode*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -615.61)" class="st6 st4">+reading: const RangeReading*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -600.61)" class="st6 st4">+childs: unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -585.61)" class="st6 st4">+visitCounter: mutable unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -570.61)" class="st6 st4">+flag: mutable bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2705 -547.61)" class="st6 st4">«constructor»+TNode(pose: OrientedPose&amp;, weight:</text>
+			<text transform="matrix(1 0 0 1 2705 -534.61)" class="st6 st4">double, parent: TNode* = 0, childs: unsigned int = 0)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1979" y="-763.1" class="st0" width="481.3" height="984"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="1972" y="-770.1" class="st10" width="481.3" height="984"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1972-770.1h481.3v984H1972V-770.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1972-745.1h481.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M1972-287.1h481.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2156.2815 -750.61)" class="st3 st4">GridSlamProcessor</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -727.61)" class="st6 st4">+m_matcher: ScanMatcher</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -712.61)" class="st6 st4">#m_beams: unsigned int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -697.61)" class="st6 st4">#last_update_time_: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -682.61)" class="st6 st4">#period_: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -667.61)" class="st6 st4">#m_particles: ParticleVector</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -652.61)" class="st6 st4">#m_indexes: std::vector&lt;unsigned int&gt;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -637.61)" class="st6 st4">#m_weights: std::vector&lt;double&gt;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -622.61)" class="st6 st4">#m_motionModel: MotionModel</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -607.61)" class="st6 st4">#resampleThreshold: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -592.61)" class="st6 st4">#m_count: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -577.61)" class="st6 st4">#m_readingCount: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -562.61)" class="st6 st4">#m_lastPartPose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -547.61)" class="st6 st4">#m_odoPose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -532.61)" class="st6 st4">#m_pose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -517.61)" class="st6 st4">#m_linearDistance: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -502.61)" class="st6 st4">#m_angularDistance: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -487.61)" class="st6 st4">#neff: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -472.61)" class="st6 st4">#xmin: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -457.61)" class="st6 st4">#ymin: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -442.61)" class="st6 st4">#xmax: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -427.61)" class="st6 st4">#ymax: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -412.61)" class="st6 st4">#delta: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -397.61)" class="st6 st4">#regScore: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -382.61)" class="st6 st4">#critScore: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -367.61)" class="st6 st4">#maxMove: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -352.61)" class="st6 st4">#linearThresholdDistance: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -337.61)" class="st6 st4">#angularThresholdDistance: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -322.61)" class="st6 st4">#obsSigmaGain: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -307.61)" class="st6 st4">#m_outputStream: std::ofstream</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -292.61)" class="st6 st4">#m_infoStream: std::ostream&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -269.61)" class="st6 st4">«constructor»+GridSlamProcessor()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -254.61)" class="st6 st4">«constructor»+GridSlamProcessor(infoStr: std::ostream&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -239.61)" class="st6 st4">«constructor»#GridSlamProcessor(gsp: const GridSlamProcessor&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -224.61)" class="st6 st4">«destructor»+~GridSlamProcessor()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -209.61)" class="st6 st4">+clone(): GridSlamProcessor*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -194.61)" class="st6 st4">+setSensorMap(smap: SensorMap&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -179.61)" class="st6 st4">+init(size: unsigned int, xmin: double, ymin: double, xmax: double, ymax: double,</text>
+			<text transform="matrix(1 0 0 1 1977 -166.61)" class="st6 st4">delta: double, initialPose: OrientedPoint = OrientedPoint(0, 0, 0))</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -151.61)" class="st6 st4">+setMatchingParameters(urange: double, range: double, sigma: double, kernsize:</text>
+			<text transform="matrix(1 0 0 1 1977 -138.61)" class="st6 st4">int, lopt: double, aopt: double, iterations: int, likelihoodSigma: double = 1,</text>
+			<text transform="matrix(1 0 0 1 1977 -125.61)" class="st6 st4">likelihoodGain: double = 1, likelihoodSkip: unsigned int = 0)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -110.61)" class="st6 st4">+setMotionModelParameters(srr: double, srt: double, str: double, stt: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -95.61)" class="st6 st4">+setUpdateDistances(linear: double, angular: double, resampleThreshold: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -80.61)" class="st6 st4">+setUpdatePeriod(p: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -65.61)" class="st6 st4">+processTruePos(odometry: const OdometryReading&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -50.61)" class="st6 st4">+processScan(reading: const RangeReading&amp;, adaptParticles: int = 0): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -35.61)" class="st6 st4">+getTrajectories(): TNodeVector</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -20.61)" class="st6 st4">+integrateScanSequence(node: TNode*)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 -5.61)" class="st6 st4">+outputStream(): std::ofstream&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 9.39)" class="st6 st4">+infoStream(): std::ostream&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 24.39)" class="st6 st4">+getParticles(): const ParticleVector&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 39.39)" class="st6 st4">+getIndexes(): const std::vector&lt;unsigned int&gt; &amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 54.39)" class="st6 st4">+getBestParticleIndex(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 69.39)" class="st6 st4">«virtual»+onOdometryUpdate()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 84.39)" class="st6 st4">«virtual»+onResampleUpdate()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 99.39)" class="st6 st4">«virtual»+onScanmatchUpdate()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 114.39)" class="st6 st4">-scanMatch(plainReading: const double *)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 129.39)" class="st6 st4">-normalize()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 144.39)" class="st6 st4">-resample(plainReading: const double*, adaptParticles: int, rr: const</text>
+			<text transform="matrix(1 0 0 1 1977 157.39)" class="st6 st4">RangeReading* = 0): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 172.39)" class="st6 st4">-updateTreeWeights(weightsAlreadyNormalized: bool = false)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 187.39)" class="st6 st4">-resetTree()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 1977 202.39)" class="st6 st4">-propagateWeights()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2699" y="-139.1" class="st0" width="360" height="197"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2692" y="-146.1" class="st1" width="360" height="197"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2692-146.1h360v197h-360V-146.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2692-108.1h360"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2692-40.1h360"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2848.8787 -128.61)" class="st6 st4">«struct»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2834.7869 -113.61)" class="st3 st4">MotionModel</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -90.61)" class="st6 st4">+srr: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -75.61)" class="st6 st4">+str: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -60.61)" class="st6 st4">+srt: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -45.61)" class="st6 st4">+stt: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -22.61)" class="st6 st4">+drawFromMotion(p: const OrientedPoint&amp;, linearMove:</text>
+			<text transform="matrix(1 0 0 1 2697 -9.61)" class="st6 st4">double, angularMove): OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 5.39)" class="st6 st4">+drawFromMotion(p: const OrientedPoint&amp;, pnew: const</text>
+			<text transform="matrix(1 0 0 1 2697 18.39)" class="st6 st4">OrientedPoint&amp;, pold: const OrientedPoint&amp;): OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 33.39)" class="st6 st4">+gaussianApproximation(pnew: const OrientedPoint&amp;, pold:</text>
+			<text transform="matrix(1 0 0 1 2697 46.39)" class="st6 st4">const OrientedPoint&amp;): Covariance3</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2699" y="-475.1" class="st0" width="360" height="264"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2692" y="-482.1" class="st9" width="360" height="264"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2692-482.1h360v264h-360V-482.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2692-444.1h360"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2692-316.1h360"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2848.8787 -464.61)" class="st6 st4">«struct»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2850.3259 -449.61)" class="st3 st4">Particle</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -426.61)" class="st6 st4">+map: ScanMatcherMap</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -411.61)" class="st6 st4">+pose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -396.61)" class="st6 st4">+previousPose: OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -381.61)" class="st6 st4">+weight: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -366.61)" class="st6 st4">+weightSum: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -351.61)" class="st6 st4">+gweight: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -336.61)" class="st6 st4">+previousIndex: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -321.61)" class="st6 st4">+node: TNode*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -298.61)" class="st6 st4">«constructor»+Particle(map: const ScanMatcherMap&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -283.61)" class="st6 st4">«operator»+double(): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -268.61)" class="st6 st4">«operator»+OrientedPoint(): OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2697 -253.61)" class="st6 st4">+setWeight(w: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2692-218.1h-239"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2453-218.1c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S2453-214.2,2453-218.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2453-218.1c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S2453-214.2,2453-218.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2467-218.1h-14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2460-225.1v14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3107" y="-914.1" class="st0" width="483.2" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3107" y="-900.1" class="st0" width="1208" height="417"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3100" y="-906.1" class="st1" width="1208" height="416"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3100-906.1h1208v416H3100V-906.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3100" y="-921.1" class="st1" width="483.2" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3100-921.1h483.2v15H3100V-921.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3100" y="-907.1" class="st1" width="1208" height="417"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3100-907.1h1208v417H3100V-907.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3575.2-918.1v4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3572.2-910.1v-4h6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3578.2-910.1v-4h-6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3689.905 -886.61)" class="st3 st4">point</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3595" y="-849.1" class="st0" width="272" height="136"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3859.1" y="-867.1" class="st0" width="16.9" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3588" y="-856.1" class="st1" width="272" height="136"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3588-856.1h272v136h-272V-856.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3588-818.1h272"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3588-780.1h272"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3700.8787 -838.61)" class="st6 st4">«struct»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3709.905 -823.61)" class="st3 st4">point</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3593 -800.61)" class="st6 st4">+x: T</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3593 -785.61)" class="st6 st4">+y: T</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3593 -762.61)" class="st6 st4">«constructor»+point()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3593 -747.61)" class="st6 st4">«constructor»+point(_x: T, _y: T)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3852.1" y="-874.1" class="st1" width="16.9" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M3852.1-874.1h16.9v22h-16.9V-874.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3857.0591 -856.61)" class="st6 st4">T</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3147" y="-770.1" class="st0" width="327" height="130"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3465.3" y="-803.1" class="st0" width="17.7" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3140" y="-777.1" class="st1" width="327" height="130"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3140-777.1h327v130h-327V-777.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3140-752.1h327"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3140-729.1h327"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3265.9155 -757.61)" class="st3 st4">orientedpoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -734.61)" class="st6 st4">+theta: A</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -711.61)" class="st6 st4">«constructor»+orientedpoint()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -696.61)" class="st6 st4">«constructor»+orientedpoint(p: point&lt;T&gt;&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -681.61)" class="st6 st4">«constructor»+orientedpoint(_x: T, _y: T, _theta: A)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -666.61)" class="st6 st4">+normalize()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 -651.61)" class="st6 st4">+rotate(alpha: A): orientedpoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3458.3" y="-810.1" class="st1" width="17.7" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M3458.3-810.1h17.7v37h-17.7V-810.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3463.3291 -792.61)" class="st6 st4">T</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3463.3291 -777.61)" class="st6 st4">A</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3477-749.1h111"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M3567.7-740.7l20.3-8.4l-20.3-8.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3567.7-740.7l20.3-8.4l-20.3-8.4V-740.7"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3555" y="-569.1" class="st0" width="150" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3668.5" y="-587.1" class="st0" width="45.5" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3548" y="-576.1" class="st1" width="150" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3548-576.1h150v37h-150V-576.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3589.0273 -558.61)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3600.9578 -543.61)" class="st3 st4">IntPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3661.5" y="-594.1" class="st1" width="45.5" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M3661.5-594.1h45.5v22h-45.5V-594.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3666.5137 -576.61)" class="st6 st4">T = int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3580-594.1v-32h96v-94"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M3684.4-699.8l-8.4-20.3l-8.4,20.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3684.4-699.8l-8.4-20.3l-8.4,20.3H3684.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3731" y="-569.1" class="st0" width="150" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3819.2" y="-587.1" class="st0" width="70.8" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3724" y="-576.1" class="st1" width="150" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3724-576.1h150v37h-150V-576.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3765.0273 -558.61)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3784.1846 -543.61)" class="st3 st4">Point</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3812.2" y="-594.1" class="st1" width="70.8" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M3812.2-594.1h70.8v22h-70.8V-594.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3817.2056 -576.61)" class="st6 st4">T = double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3780-594.1v-126"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M3788.4-699.8l-8.4-20.3l-8.4,20.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3788.4-699.8l-8.4-20.3l-8.4,20.3H3788.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3260-530.1h-40v-117"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M3228.4-626.8l-8.4-20.3l-8.4,20.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3228.4-626.8l-8.4-20.3l-8.4,20.3H3228.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3267" y="-538.1" class="st0" width="150" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3354.5" y="-571.1" class="st0" width="71.5" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3260" y="-545.1" class="st12" width="150" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3260-545.1h150v37h-150V-545.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3301.0273 -527.61)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3295.2542 -512.61)" class="st3 st4">OrientedPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3347.5" y="-578.1" class="st12" width="71.5" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M3347.5-578.1h71.5v37h-71.5V-578.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3352.4756 -560.61)" class="st6 st4">T = double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3352.4756 -545.61)" class="st6 st4">A = double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2507" y="-699.1" class="st0" width="160" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2500" y="-706.1" class="st1" width="160" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2500-706.1h160v37h-160V-706.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2546.0273 -688.61)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2542.0632 -673.61)" class="st3 st4">TNodeVector</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2507" y="-643.1" class="st0" width="160" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2500" y="-650.1" class="st1" width="160" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2500-650.1h160v52h-160V-650.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2546.0273 -632.61)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2541.3364 -617.61)" class="st3 st4">TNodeDeque</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2500-669.1h-47"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2453-669.1c0-3.9,3.1-7,7-7s7,3.1,7,7c0,3.9-3.1,7-7,7S2453-665.2,2453-669.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2453-669.1c0-3.9,3.1-7,7-7s7,3.1,7,7c0,3.9-3.1,7-7,7S2453-665.2,2453-669.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2467-669.1h-14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2460-676.1v14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2500-598.1h-47"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2453-598.1c0-3.9,3.1-7,7-7s7,3.1,7,7c0,3.9-3.1,7-7,7S2453-594.2,2453-598.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2453-598.1c0-3.9,3.1-7,7-7s7,3.1,7,7c0,3.9-3.1,7-7,7S2453-594.2,2453-598.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2467-598.1h-14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2460-605.1v14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M2660-690.1h40"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2689.8-685.9l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M2660-625.1h40"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2689.8-620.9l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2500-318.1h-47"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M2453-318.1c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S2453-314.2,2453-318.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2453-318.1c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S2453-314.2,2453-318.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2467-318.1h-14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2460-325.1v14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M2660-344.1h32"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2681.8-339.9l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4316,220.9h-112"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M4204,220.9c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S4204,224.8,4204,220.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4204,220.9c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S4204,224.8,4204,220.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4218,220.9h-14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4211,213.9v14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3147" y="724.9" class="st0" width="136" height="96"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3140" y="717.9" class="st1" width="136" height="96"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3140,717.9h136v96h-136V717.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3140,755.9h136"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3164.636 735.39)" class="st6 st4">«enumeration»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3157.425 750.39)" class="st3 st4">AccessibilityState</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 773.39)" class="st6 st4">Outside=0x0</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 788.39)" class="st6 st4">Inside=0x1</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3145 803.39)" class="st6 st4">Allocated=0x2</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3307" y="757.9" class="st0" width="462.6" height="385"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3624.6" y="724.9" class="st0" width="153.9" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3300" y="750.9" class="st1" width="462.6" height="385"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3300,750.9h462.6v385H3300V750.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3300,775.9h462.6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3300,828.9h462.6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3507.4402 770.39)" class="st3 st4">Array2D</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 793.39)" class="st6 st4">+m_cells: Cell **</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 808.39)" class="st6 st4">#m_xsize: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 823.39)" class="st6 st4">#m_ysize: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 846.39)" class="st6 st4">«constructor»+Array2D(xsize: int = 0, ysize: int = 0)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 861.39)" class="st6 st4">«constructor»+Array2D(g: const Array2D&lt;Cell,debug&gt; &amp;))</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 876.39)" class="st6 st4">«destructor»+~Array2D()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 891.39)" class="st6 st4">«operator»+=(g: const Array2D&lt;Cell, debug&gt;&amp;): Array2D&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 906.39)" class="st6 st4">+clear()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 921.39)" class="st6 st4">+resize(xmin: int, ymin: int, xmax: int, ymax: int)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 936.39)" class="st6 st4">+isInside(x: int, y: int): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 951.39)" class="st6 st4">+isInside(p: const IntPoint&amp;): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 966.39)" class="st6 st4">+cell(x: int, y: int): const Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 981.39)" class="st6 st4">+cell(x: int, y: int): Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 996.39)" class="st6 st4">+cell(p: const IntPoint&amp;): const Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 1011.39)" class="st6 st4">+cell(p: const IntPoint&amp;): Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 1026.39)" class="st6 st4">+cellState(x: int, y: int): AccessibilityState</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 1041.39)" class="st6 st4">+cellState(p: const IntPoint&amp;): AccessibilityState</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 1056.39)" class="st6 st4">+getPatchSize(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 1071.39)" class="st6 st4">+getPatchMagnitude(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 1086.39)" class="st6 st4">+getXSize(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 1101.39)" class="st6 st4">+getYSize(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3305 1116.39)" class="st6 st4">+cells(): Cell**</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3617.6" y="717.9" class="st1" width="153.9" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M3617.6,717.9h153.9v37h-153.9V717.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3622.647 735.39)" class="st6 st4">Cell</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3622.647 750.39)" class="st6 st4">debug: const bool = false</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2507" y="-363.1" class="st0" width="160" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2500" y="-370.1" class="st1" width="160" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2500-370.1h160v52h-160V-370.1z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2546.0273 -352.61)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2539.8987 -337.61)" class="st3 st4">ParticleVector</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2707" y="133.9" class="st0" width="320.9" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2784.8" y="100.9" class="st0" width="252.1" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2700" y="126.9" class="st1" width="320.9" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M2700,126.9h320.9v52H2700V126.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2826.4727 144.39)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2814.5676 159.39)" class="st3 st4">TNodeMultimap</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="2777.8" y="93.9" class="st1" width="252.1" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M2777.8,93.9h252.1v37h-252.1V93.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2782.7627 111.39)" class="st6 st4">_Key = const GridSlamProcessor::TNode*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 2782.7627 126.39)" class="st6 st4">_TP: GridSlamProcessor::TNode*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3883" y="140.9" class="st0" width="288" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3883" y="154.9" class="st0" width="720" height="354"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3876" y="148.9" class="st1" width="720" height="353"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3876,148.9h720v353h-720V148.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3876" y="133.9" class="st1" width="288" height="15"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3876,133.9h288v15h-288V133.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3876" y="147.9" class="st1" width="720" height="354"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3876,147.9h720v354h-720V147.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4156,136.9v4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4153,144.9v-4h6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4159,144.9v-4h-6"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4214.6909 168.39)" class="st3 st4">smmap</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4323" y="198.9" class="st0" width="150" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4425.7" y="180.9" class="st0" width="56.3" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4316" y="191.9" class="st1" width="150" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4316,191.9h150v37h-150V191.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4357.0273 209.39)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4361.7344 224.39)" class="st3 st4">FloatPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4418.7" y="173.9" class="st1" width="56.3" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M4418.7,173.9h56.3v22h-56.3V173.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4423.6719 191.39)" class="st6 st4">T = float</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4396,173.9v-816h-568v-78"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M3836.4-699.8l-8.4-20.3l-8.4,20.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3836.4-699.8l-8.4-20.3l-8.4,20.3H3836.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3899" y="180.9" class="st0" width="312" height="304"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3892" y="173.9" class="st1" width="312" height="304"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3892,173.9h312v304h-312V173.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3892,211.9h312"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3892,279.9h312"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4024.8787 191.39)" class="st6 st4">«struct»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3997.0601 206.39)" class="st3 st4">PointAccumulator</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 229.39)" class="st6 st4">+unknown_ptr: PointAccumulator*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 244.39)" class="st6 st4">+acc: FloatPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 259.39)" class="st6 st4">+n: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 274.39)" class="st6 st4">+visits: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 297.39)" class="st6 st4">«constructor»+PointAccumulator()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 312.39)" class="st6 st4">«constructor»+PointAccumulator(i: int)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 327.39)" class="st6 st4">+update(value: bool, p: const Point&amp; = Point(0,0))</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 342.39)" class="st6 st4">+mean(): Point</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 357.39)" class="st6 st4">«operator»+double()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 372.39)" class="st6 st4">+add(p: const PointAccumulator&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 387.39)" class="st6 st4">+Unknown(): const PointAccumulator&amp;</text>
+			<path class="st2" d="M3897,387.4h222.9"/>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3897 402.39)" class="st6 st4">+entropy(): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4227" y="429.9" class="st0" width="322.7" height="47"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4263.2" y="396.9" class="st0" width="295.5" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4220" y="422.9" class="st1" width="322.7" height="47"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4220,422.9h322.7v47H4220V422.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4347.3867 440.39)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4330.4194 455.39)" class="st3 st4">ScanMatcherMap</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4256.2" y="389.9" class="st1" width="295.5" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M4256.2,389.9h295.5v37h-295.5V389.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4261.2236 407.39)" class="st6 st4">Cell=PointAcummulator</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4261.2236 422.39)" class="st6 st4">Storage=HierarchicalArray2D&lt;PointAccumulator&gt;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3844,909.9h-71"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M3793.3,901.5l-20.3,8.4l20.3,8.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3793.3,901.5l-20.3,8.4l20.3,8.4V901.5"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3867" y="717.9" class="st0" width="246" height="39"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3906.7" y="684.9" class="st0" width="215.3" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3860" y="710.9" class="st1" width="246" height="39"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3860,710.9h246v39h-246V710.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3949.0273 728.39)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3958.4282 743.39)" class="st3 st4">PointSet</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3899.7" y="677.9" class="st1" width="215.3" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M3899.7,677.9H4115v37h-215.3V677.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3904.6885 695.39)" class="st6 st4">_Key=point&lt;int&gt;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3904.6885 710.39)" class="st6 st4">_Comparator=pointcomparator&lt;int&gt;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3851" y="822.9" class="st0" width="491.4" height="400"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4320" y="804.9" class="st0" width="31.4" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="3844" y="815.9" class="st1" width="491.4" height="400"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3844,815.9h491.4v400H3844V815.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3844,840.9h491.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3844,893.9h491.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4031.5562 835.39)" class="st3 st4">HierarchicalArray2D</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 858.39)" class="st6 st4">#m_activeArea: PointSet</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 873.39)" class="st6 st4">#m_patchMagnitude: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 888.39)" class="st6 st4">#m_patchSize: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 911.39)" class="st6 st4">«constructor»+HierarchicalArray2D(xsize: int, ysize: int, patchMagnitude: int = 5)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 926.39)" class="st6 st4">«constructor»+HierarchicalArray2D(hg: const HierarchicalArray2D&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 941.39)" class="st6 st4">«destructor»+~HierarchicalArray2D()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 956.39)" class="st6 st4">«operator»+=(hg: const HierarchicalArray2D&amp;): HierarchicalArray2D&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 971.39)" class="st6 st4">+resize(ixmin: int, iymin: int, ixmax: int, iymax: int)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 986.39)" class="st6 st4">+getPatchSize(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1001.39)" class="st6 st4">+getPatchMagnitude(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1016.39)" class="st6 st4">+cell(x: int, y: int): const Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1031.39)" class="st6 st4">+cell(x: int, y: int): Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1046.39)" class="st6 st4">+cell(p: const IntPoint&amp;): const Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1061.39)" class="st6 st4">+cell(p: const IntPoint&amp;): Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1076.39)" class="st6 st4">+cellState(x: int, y: int): AccessibilityState</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1091.39)" class="st6 st4">+cellState(p: const IntPoint&amp;): AccessibilityState</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1106.39)" class="st6 st4">+isAllocated(x: int, y: int): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1121.39)" class="st6 st4">+isAllocated(p: const IntPoint&amp;): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1136.39)" class="st6 st4">+patchIndexes(x: int, y: int): IntPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1151.39)" class="st6 st4">+patchIndexes(p: const IntPoint&amp;): IntPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1166.39)" class="st6 st4">+setActiveArea(aa: const PointSet&amp;, patchCoords: bool = false)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1181.39)" class="st6 st4">+getActiveArea(): const PointSet&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1196.39)" class="st6 st4">+allocActiveArea()</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 3849 1211.39)" class="st6 st4">#createPatch(p: const IntPoint&amp;): Array2D&lt;Cell&gt; *</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4313" y="797.9" class="st1" width="31.4" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M4313,797.9h31.4v22H4313V797.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4318.0259 815.39)" class="st6 st4">Cell</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4116,749.9h88v48"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M4197,790.9c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S4197,794.8,4197,790.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4197,790.9c0-3.9,3.1-7,7-7s7,3.1,7,7s-3.1,7-7,7S4197,794.8,4197,790.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4204,783.9v14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4197,790.9h14"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4417" y="843.9" class="st0" width="149.7" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4490.4" y="825.9" class="st0" width="85.2" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4410" y="836.9" class="st1" width="149.7" height="37"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4410,836.9h149.7v37H4410V836.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4450.8618 854.39)" class="st6 st4">«dataType»</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4440.3975 869.39)" class="st3 st4">DoubleArray2D</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4483.4" y="818.9" class="st1" width="85.2" height="22"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M4483.4,818.9h85.2v22h-85.2V818.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4488.4209 836.39)" class="st6 st4">Cell = double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4489,873.9v500h-953v-238"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st1" d="M3544.4,1156.2l-8.4-20.3l-8.4,20.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M3544.4,1156.2l-8.4-20.3l-8.4,20.3H3544.4"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4587" y="756.9" class="st0" width="678.3" height="700"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="5116.1" y="708.9" class="st0" width="158.2" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="4580" y="749.9" class="st1" width="678.3" height="700"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4580,749.9h678.3v700H4580V749.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4580,774.9h678.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st2" d="M4580,932.9h678.3"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st2" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4906.4902 769.39)" class="st3 st4">Map</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 792.39)" class="st6 st4">#m_center: Point</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 807.39)" class="st6 st4">#m_worldSizeX: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 822.39)" class="st6 st4">#m_worldSizeY: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 837.39)" class="st6 st4">#m_delta: double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 852.39)" class="st6 st4">#m_storage: Storage</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 867.39)" class="st6 st4">#m_mapSizeX: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 882.39)" class="st6 st4">#m_mapSizeY: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 897.39)" class="st6 st4">#m_sizeX2: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 912.39)" class="st6 st4">#m_sizeY2: int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 927.39)" class="st6 st4">#m_unknown: const Cell</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 950.39)" class="st6 st4">«constructor»+Map(mapSizeX: int, mapSizeY: int, delta: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 965.39)" class="st6 st4">«constructor»+Map(center: const Point&amp;, worldSizeX: double, worldSizeY: double, delta: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 980.39)" class="st6 st4">«constructor»+Map(const center: Point&amp;, xmin: double, ymin: double, xmax: double, ymax: double, delta: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 995.39)" class="st6 st4">+resize(xmin: double, ymin: double, xmax: double, ymax: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1010.39)" class="st6 st4">+grow(xmin: double, ymin: double, xmax: double, ymax: double)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1025.39)" class="st6 st4">+world2map(p: const Point&amp;): IntPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1040.39)" class="st6 st4">+world2map(x: double, y: double): IntPoint</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1055.39)" class="st6 st4">+map2world(p: const IntPoint&amp;): Point</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1070.39)" class="st6 st4">+map2world(x: int, y: int): Point</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1085.39)" class="st6 st4">+getCenter(): Point</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1100.39)" class="st6 st4">+getWorldSizeX(): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1115.39)" class="st6 st4">+getWorldSizeY(): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1130.39)" class="st6 st4">+getMapSizeX(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1145.39)" class="st6 st4">+getMapSizeY(): int</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1160.39)" class="st6 st4">+getDelta(): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1175.39)" class="st6 st4">+getMapResolution(): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1190.39)" class="st6 st4">+getResolution(): double</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1205.39)" class="st6 st4">+getSize(xmin: double &amp;, ymin: double&amp;, xmax: double&amp;, ymax: double&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1220.39)" class="st6 st4">+cell(x: int, y: int): Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1235.39)" class="st6 st4">+cell(p: const IntPoint&amp;): Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1250.39)" class="st6 st4">+cell(x: int, y: int): const Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1265.39)" class="st6 st4">+cell(x: double, y: double): Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1280.39)" class="st6 st4">+cell(p: const Point&amp;): Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1295.39)" class="st6 st4">+cell(p: const IntPoint&amp;): const Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1310.39)" class="st6 st4">+cell(x: double, y: double): const Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1325.39)" class="st6 st4">+cell(p: const Point&amp;): const Cell&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1340.39)" class="st6 st4">+isInside(x: int, y: int): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1355.39)" class="st6 st4">+isInside(p: const IntPoint&amp;): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1370.39)" class="st6 st4">+isInside(x: double, y: double): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1385.39)" class="st6 st4">+isInside(p: const Point&amp;): bool</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1400.39)" class="st6 st4">+storage(): Storage&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1415.39)" class="st6 st4">+storage(): const Storage&amp;</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1430.39)" class="st6 st4">+toDoubleArray(): DoubleArray2D*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 4585 1445.39)" class="st6 st4">+toDoubleMap(): Map&lt;double, DoubleArray2D, false&gt;*</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<rect x="5109.1" y="701.9" class="st1" width="158.2" height="52"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<path class="st11" d="M5109.1,701.9h158.2v52h-158.2V701.9z"/>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path class="st11" d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 5114.062 719.39)" class="st6 st4">Cell</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 5114.062 734.39)" class="st6 st4">Storage</text>
+		</g>
+	</g>
+	<g transform="translate(-6,-6) scale(1,1)">
+		<g>
+			<path d="M1884-1026.1"/>
+			<text transform="matrix(1 0 0 1 5114.062 749.39)" class="st6 st4">isClass: const bool = true</text>
+		</g>
+	</g>
+</g>
+</svg>

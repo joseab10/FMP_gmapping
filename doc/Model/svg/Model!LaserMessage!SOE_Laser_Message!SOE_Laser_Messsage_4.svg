@@ -1,0 +1,1845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2172px" height="2964px" viewBox="961 -1304.7 2172 2964" style="enable-background:new 961 -1304.7 2172 2964;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:13px;}
+	.st4{font-family:'Arial-BoldMT';}
+	.st5{fill:#FFFFD8;}
+	.st6{fill:none;stroke:#D16800;stroke-miterlimit:10;}
+	.st7{opacity:0.2;fill:#C0C0C0;enable-background:new    ;}
+	.st8{fill:#EBD8FF;}
+	.st9{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3;}
+	.st10{fill:#FFFF00;}
+	.st11{fill:#D8FFD8;}
+	.st12{fill:#FFF5D8;}
+	.st13{fill:#FFD8D8;}
+	.st14{fill:#703800;}
+	.st15{font-size:16px;}
+	.st16{font-size:22px;}
+	.st17{fill:#FFEBD8;}
+	.st18{fill:#A00000;}
+	.st19{fill:#FFE2D8;}
+	.st20{fill:none;stroke:#AAAAAA;stroke-miterlimit:10;}
+	.st21{fill:#AAAAAA;}
+	.st22{fill:#8E8E8E;}
+	.st23{fill:none;stroke:#38BCFF;stroke-miterlimit:10;}
+	.st24{fill:#38BCFF;}
+	.st25{fill:#008ED6;}
+	.st26{fill:#A3E0FF;}
+	.st27{fill:none;stroke:#8E8E8E;stroke-miterlimit:10;}
+	.st28{fill:#00A9FF;}
+	.st29{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:10,3;}
+</style>
+<g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M961-1304.7h2152v2904H961V-1304.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M961-1304.7v22h209.7l11-11v-11H961"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M961-1304.7v22h209.7l11-11v-11H961L961-1304.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1031.979 -1287.17)" class="st2 st3">SOE_Laser_Messsage</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 966 -1287.17)" class="st4 st3">interaction</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2129" y="439.3" class="st5" width="960" height="168"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st6" d="M2129,439.3h960v168h-960V439.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2129" y="271.3" class="st5" width="960" height="104"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st6" d="M2129,271.3h960v104h-960V271.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2129" y="143.3" class="st5" width="960" height="104"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st6" d="M2129,143.3h960v104h-960V143.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2129" y="-88.7" class="st5" width="960" height="224"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st6" d="M2129-88.7h960v224h-960V-88.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2129" y="-496.7" class="st5" width="968" height="48"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st6" d="M2129-496.7h968v48h-968V-496.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st6" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1948.5 -510.17)" class="st2 st3">[if m_count&gt;0]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2129" y="-440.7" class="st5" width="968" height="55"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st6" d="M2129-440.7h968v55h-968V-440.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2121" y="-776.7" class="st5" width="976" height="80"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st6" d="M2121-776.7h976v80h-976V-776.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1480" y="-1257.7" class="st7" width="147" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1473" y="-1264.7" class="st8" width="147" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1473-1264.7h147v39h-147V-1264.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1487.2446 -1245.17)" class="st4 st3">gn_: SlamGmapping</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1547.5-1224.7v2864"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1088" y="-1257.7" class="st7" width="145" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1081" y="-1264.7" class="st10" width="145" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1081-1264.7h145v39h-145V-1264.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1103.2773 -1245.17)" class="st4 st3">/scan: LaserScan</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1154.5-1224.7v2864"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1792" y="-1257.7" class="st7" width="205.4" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1785" y="-1264.7" class="st11" width="205.4" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1785-1264.7h205.4v39H1785V-1264.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1799.8892 -1245.17)" class="st4 st3">gn_.gsp_laser_: RangeSensor</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1888.5-1224.7v222"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2048" y="-1257.7" class="st7" width="206" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2041" y="-1264.7" class="st12" width="206" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2041-1264.7h206v39h-206V-1264.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2057.2942 -1245.17)" class="st4 st3">gn_.gsp_: GridSlamProcessor</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2145.5-1224.7v2864"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2712" y="-1257.7" class="st7" width="237.9" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2705" y="-1264.7" class="st13" width="237.9" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2705-1264.7h237.9v39H2705V-1264.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2720.9841 -1245.17)" class="st4 st3">gn_.gsp_.m_matcher: ScanMatcher</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2824.5-1224.7v2864"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1760" y="1146.3" class="st7" width="218" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1753" y="1139.3" class="st1" width="218" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1753,1139.3h218v39h-218V1139.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1796.6128 1158.8298)" class="st4 st3">matcher: ScanMatcher</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1863.5,1179.3v356"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2368" y="-1257.7" class="st7" width="268.2" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2361" y="-1264.7" class="st1" width="268.2" height="39"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2361-1264.7h268.2v39H2361V-1264.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2379.4597 -1245.17)" class="st4 st3">gn_.gsp_.m_motionmodel: MotionModel</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2496.5-1224.7v560"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st9" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2942 -731.67)" class="st14 st2 st15">Sample from</text>
+			<text transform="matrix(1 0 0 1 2942 -715.67)" class="st14 st2 st15">Proposal Distribution</text>
+			<text transform="matrix(1 0 0 1 2942 -699.67)" class="st14 st2 st15">(Motion Model)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2958 -387.67)" class="st14 st2 st15">Importance Weight</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 3070 -413.67)" class="st14 st2 st16">3)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 3070 -469.67)" class="st14 st2 st16">2)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2958 -451.67)" class="st14 st2 st15">Improved Proposal</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2145" y="-108.7" class="st1" width="13" height="516"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2145-108.7h13v516h-13V-108.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 3062 -749.67)" class="st14 st2 st16">1)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 3062 -61.67)" class="st14 st2 st16">4)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2998 -35.67)" class="st14 st2 st15">Selective</text>
+			<text transform="matrix(1 0 0 1 2998 -19.67)" class="st14 st2 st15">Resampling</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2998 198.33)" class="st14 st2 st15">Map Update</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 3062 178.33)" class="st14 st2 st16">5)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2998 332.33)" class="st14 st2 st15">Map Update</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 3046 298.33)" class="st14 st2 st16">5.b)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2995 498.33)" class="st14 st2 st15">Map Update</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st14" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 3046 466.33)" class="st14 st2 st16">5.0)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1154-1176.7h386"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1529.8-1172.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1529.8-1172.5l10.2-4.2l-10.2-4.2V-1172.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1232.8342 -1181.17)" class="st2 st3">1 : laserCallback(scan: const LaserScan*)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1540" y="-1176.7" class="st12" width="13" height="2771"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1540-1176.7h13v2771h-13V-1176.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1553-1144.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1570.2-1128.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2-1128.9l-10.2,4.2l10.2,4.2V-1128.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1560.696 -1148.17)" class="st2 st3">2 : initMapper(scan: const LaserScan&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1547" y="-1124.7" class="st1" width="13" height="212"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1547-1124.7h13v212h-13V-1124.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560-1104.7h321"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1870.8-1100.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1870.8-1100.5l10.2-4.2l-10.2-4.2V-1100.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1638.3472 -1086.17)" class="st2 st3">3 : RangeSensor(&quot;FLASER&quot;,</text>
+			<text transform="matrix(1 0 0 1 1651.6201 -1073.17)" class="st2 st3">gsp_laserbeam_count_,</text>
+			<text transform="matrix(1 0 0 1 1588.7561 -1060.17)" class="st2 st3">fabs(scan.angle_increment), gmap_pose, 0.0,</text>
+			<text transform="matrix(1 0 0 1 1683.7869 -1047.17)" class="st2 st3">maxRange_)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1881" y="-1104.7" class="st1" width="13" height="75"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1881-1104.7h13v75h-13V-1104.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1894-1080.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1911.2-1064.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1911.2-1064.9l-10.2,4.2l10.2,4.2V-1064.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1902.115 -1084.17)" class="st2 st3">4 : updateBeamsLookup()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1888" y="-1060.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1888-1060.7h13v28h-13V-1060.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1881-1032.7h-321"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2-1036.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1709.4673 -1016.17)" class="st2 st3">5 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560-960.7h578"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2127.8-956.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2127.8-956.5l10.2-4.2l-10.2-4.2V-956.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1737.115 -964.17)" class="st2 st3">6 : setSensorMap(smap: SensorMap&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2138" y="-960.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2138-960.7h13v28h-13V-960.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2145-928.7h-585"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2-932.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1841.4673 -912.17)" class="st2 st3">7 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1553-888.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1570.2-872.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2-872.9l-10.2,4.2l10.2,4.2V-872.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1588.6094 -868.17)" class="st2 st3">8 : addScan(scan: const LaserScan&amp;, gmap_pose: OrientedPose&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1547" y="-868.7" class="st17" width="13" height="1716"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1547-868.7h13v1716h-13V-868.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560-856.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1577.2-840.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1577.2-840.9l-10.2,4.2l10.2,4.2V-840.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1595.0142 -836.17)" class="st2 st3">9 : getOdomPose(gmap_pose: OrientedPose&amp;, t: const Time&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1554" y="-836.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1554-836.7h13v28h-13V-836.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560-800.7h578"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2127.8-796.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2127.8-796.5l10.2-4.2l-10.2-4.2V-796.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1637.5 -804.17)" class="st18 st2 st3">10 : processScan(reading: const RangeReading&amp;, adaptParticles: int = 0)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2138" y="-800.7" class="st19" width="13" height="1475"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2138-800.7h13v1475h-13V-800.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2151-744.7h338"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2478.8-740.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2168.8193 -748.17)" class="st2 st3">11 : drawFromMotion(it-&gt;pose,relPose, m_odoPose)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2489" y="-744.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2489-744.7h13v28h-13V-744.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2489-718.7h-338"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2161.2-722.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2306.5 -702.17)" class="st2 st3">12 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st20" d="M2151-680.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st21" d="M2168.2-664.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st20" d="M2168.2-664.9l-10.2,4.2l10.2,4.2V-664.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st20" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2184.5 -665.17)" class="st22 st2 st3">13 : onOdometryUpdate()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2145" y="-660.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st20" d="M2145-660.7h13v28h-13V-660.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2151-624.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st24" d="M2168.2-608.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2168.2-608.9l-10.2,4.2l10.2,4.2V-608.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st23" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2184.5 -609.17)" class="st25 st2 st3">14 : accumulateMotion()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2145" y="-604.7" class="st26" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2145-604.7h13v28h-13V-604.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2151-536.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2168.2-520.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2-520.9l-10.2,4.2l10.2,4.2V-520.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2183.8384 -516.17)" class="st2 st3">15 : scanMatch(plainReading: const double *)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2145" y="-516.7" class="st1" width="13" height="268"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2145-516.7h13v268h-13V-516.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2158-480.7h659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2806.8-476.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8-476.5l10.2-4.2l-10.2-4.2V-476.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2324.5 -484.17)" class="st2 st3">16 : optimize(corrected, it-&gt;map, it-&gt;pose, plainReading)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="-480.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817-480.7h13v28h-13V-480.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817-454.7h-659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2-458.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2471.8523 -461.17)" class="st2 st3">17 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2158-416.7h659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2806.8-412.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8-412.5l10.2-4.2l-10.2-4.2V-412.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2312.5 -420.17)" class="st18 st2 st3">18 : likelihoodAndScore(s, l, it-&gt;map, it-&gt;pose, plainReading)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="-416.7" class="st13" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817-416.7h13v28h-13V-416.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817-390.7h-659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2-394.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2471.8523 -397.17)" class="st2 st3">19 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2158-360.7h659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2806.8-356.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8-356.5l10.2-4.2l-10.2-4.2V-356.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2411.1296 -364.17)" class="st2 st3">20 : invalidateActiveArea()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="-360.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817-360.7h13v28h-13V-360.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817-334.7h-659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2-338.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2467.8523 -341.17)" class="st2 st3">21 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2158-304.7h659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2806.8-300.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8-300.5l10.2-4.2l-10.2-4.2V-300.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2198.3213 -308.17)" class="st2 st3">22 : computeActiveArea(map: ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="-304.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817-304.7h13v28h-13V-304.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817-280.7h-659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2-284.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2471.8523 -284.17)" class="st2 st3">23 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st27" d="M2151-240.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st22" d="M2168.2-224.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st27" d="M2168.2-224.9l-10.2,4.2l10.2,4.2V-224.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st27" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2183.5 -220.17)" class="st22 st2 st3">24 : onScanmatchUpdate()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2145" y="-220.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st20" d="M2145-220.7h13v28h-13V-220.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2151-184.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2168.2-168.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2-168.9l-10.2,4.2l10.2,4.2V-168.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2182.5 -164.17)" class="st2 st3">25 : updateTreeWeights(weightsAreadyNormalized=false)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2145" y="-164.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2145-164.7h13v28h-13V-164.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2151-128.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2168.2-112.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2-112.9l-10.2,4.2l10.2,4.2V-112.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2182.5 -108.17)" class="st2 st3">26 : resample(plainReading, adaptParticles,readingCopy)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2145" y="-108.7" class="st1" width="13" height="516"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2145-108.7h13v516h-13V-108.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2158-80.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st24" d="M2175.2-64.9l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2175.2-64.9l-10.2,4.2l10.2,4.2V-64.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st23" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2193.0422 -60.17)" class="st25 st2 st3">27 : resample()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2152" y="-60.7" class="st26" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2152-60.7h13v28h-13V-60.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st27" d="M2158-24.7h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st22" d="M2175.2-8.9L2165-4.7l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st27" d="M2175.2-8.9L2165-4.7l10.2,4.2V-8.9"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st27" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2189.5 -4.17)" class="st21 st2 st3">28 : onResampleUpdate()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2152" y="-4.7" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st27" d="M2152-4.7h13v28h-13V-4.7z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2158,31.3h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st24" d="M2175.2,47.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2175.2,47.1l-10.2,4.2l10.2,4.2V47.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st23" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2192.9185 51.83)" class="st25 st2 st3">29 : buildTree()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2152" y="51.3" class="st26" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2152,51.3h13v28h-13V51.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2158,87.3h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st24" d="M2175.2,103.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2175.2,103.1l-10.2,4.2l10.2,4.2V103.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st23" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2194.5 107.83)" class="st25 st2 st3">30 : deleteOldParticles()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2152" y="107.3" class="st26" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2152,107.3h13v28h-13V107.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2158,167.3h659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8,171.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2411.5 163.83)" class="st2 st3">31 : invalidateActiveArea()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="167.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817,167.3h13v28h-13V167.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817,190.3h-659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2,186.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2472.5 186.83)" class="st2 st3">32 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2158,212.3h659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8,216.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2218.5 208.83)" class="st18 st2 st3">33 : registerScan(map: ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="212.3" class="st13" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817,212.3h13v28h-13V212.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817,236.3h-659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2,232.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2473.5 234.83)" class="st2 st3">34 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2158,295.3h659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8,299.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2411.5 291.83)" class="st2 st3">35 : invalidateActiveArea()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="295.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817,295.3h13v28h-13V295.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2824,323.3h-666"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2,319.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2477.5 322.83)" class="st2 st3">36 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2158,343.3h659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8,347.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2218.5 339.83)" class="st18 st2 st3">37 : registerScan(map: ScanMatcherMap&amp;, p: const OrientedPoint&amp;, readings: const double*)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="343.3" class="st13" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817,343.3h13v28h-13V343.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817,367.3h-659"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2168.2,363.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2473.5 366.83)" class="st2 st3">38 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2151,463.3h666"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2806.8,467.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8,467.5l10.2-4.2l-10.2-4.2V467.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2409.1296 459.83)" class="st2 st3">39 : invalidateActiveArea()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="463.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817,463.3h13v28h-13V463.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817,487.3h-666"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2161.2,483.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2443.8523 482.83)" class="st2 st3">40 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2151,519.3h666"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2806.8,523.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8,523.5l10.2-4.2l-10.2-4.2V523.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2199.9858 513.83)" class="st2 st3">41 : computeActiveArea(it-&gt;map:ScanMatcherMap, it-&gt;pose:OrientedPoint,plainReading:double*)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="519.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817,519.3h13v28h-13V519.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817,543.3h-666"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2161.2,539.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2443.8523 538.83)" class="st2 st3">42 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2151,567.3h666"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2806.8,571.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2806.8,571.5l10.2-4.2l-10.2-4.2V571.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2223.3572 563.83)" class="st18 st2 st3">43 : registerScan(it-&gt;map:ScanMatcherMap, it-&gt;pose:OrientedPoint,plainReading:double*)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2817" y="567.3" class="st13" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2817,567.3h13v28h-13V567.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2817,591.3h-666"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2161.2,587.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2443.8523 586.83)" class="st2 st3">44 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2151,623.3h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st24" d="M2168.2,639.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2168.2,639.1l-10.2,4.2l10.2,4.2V639.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st23" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2192.6992 635.83)" class="st25 st2 st3">45 : addRootNodeToParticle</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2145" y="643.3" class="st26" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2145,643.3h13v28h-13V643.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2145,703.3h30v20h-24"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2161.2,719.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2161.2,719.1l-10.2,4.2l10.2,4.2V719.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2178.668 715.83)" class="st2 st3">46 : updateTreeWeights(weightsAlreadyNormalized: bool = false)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2138" y="723.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2138,723.3h13v28h-13V723.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2145,759.3h30v20h-24"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st24" d="M2161.2,775.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2161.2,775.1l-10.2,4.2l10.2,4.2V775.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st23" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2179.3997 771.83)" class="st25 st2 st3">47 : updatePastPoses</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2138" y="779.3" class="st26" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M2138,779.3h13v28h-13V779.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2145,839.3h-585"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2,835.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1836.8523 834.83)" class="st2 st3">48 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M1553,863.3h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st24" d="M1570.2,879.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M1570.2,879.1l-10.2,4.2l10.2,4.2V879.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st23" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1593.8206 878.83)" class="st28 st2 st3">49 : getBestParticlePose</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1547" y="883.3" class="st26" width="13" height="132"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M1547,883.3h13v132h-13V883.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560,910.3h578"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2127.8,914.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2127.8,914.5l10.2-4.2l-10.2-4.2V914.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1772.406 906.83)" class="st2 st3">50 : getBestParticleIndex()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2138" y="910.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2138,910.3h13v28h-13V910.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2138,937.3h-578"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2,933.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1833.8523 930.83)" class="st2 st3">51 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560,967.3h578"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M2127.8,971.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2127.8,971.5l10.2-4.2l-10.2-4.2V971.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1798.0632 963.83)" class="st2 st3">52 : getParticles()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="2138" y="967.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2138,967.3h13v28h-13V967.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M2138,992.3h-578"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2,988.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1835.8523 987.83)" class="st2 st3">53 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M1553,1023.3h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st24" d="M1570.2,1039.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M1570.2,1039.1l-10.2,4.2l10.2,4.2V1039.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st23" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1598.5305 1035.83)" class="st28 st2 st3">54 : updateTF</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1547" y="1043.3" class="st26" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st23" d="M1547,1043.3h13v28h-13V1043.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1553,1095.3h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1570.2,1111.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2,1111.1l-10.2,4.2l10.2,4.2V1111.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1591.5 1115.8298)" class="st18 st2 st3">55 : updateMap(scan: LaserScan&amp;)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1547" y="1115.3" class="st1" width="13" height="476"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1547,1115.3h13v476h-13V1115.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1560,1159.3h193"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1742.8,1163.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1642.8523 1155.8298)" class="st2 st3">56 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1630.5 1140.8298)" class="st2 st3">«create»</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560,1199.3h296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1845.8,1203.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1845.8,1203.5l10.2-4.2l-10.2-4.2V1203.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1643.3723 1194.8298)" class="st2 st3">57 : SetParams()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1856" y="1199.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1856,1199.3h13v28h-13V1199.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1856,1221.3h-296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2,1217.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1687.8523 1218.8298)" class="st2 st3">58 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560,1239.3h30v20h-23"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1577.2,1255.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1577.2,1255.1l-10.2,4.2l10.2,4.2V1255.1"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1599.5 1259.8298)" class="st2 st3">59 : computePoseEntropy()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1554" y="1259.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1554,1259.3h13v28h-13V1259.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560,1295.3h296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1845.8,1299.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1845.8,1299.5l10.2-4.2l-10.2-4.2V1299.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1622.6296 1290.8298)" class="st2 st3">60 : invalidateActiveArea()</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1856" y="1295.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1856,1295.3h13v28h-13V1295.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1856,1319.3h-296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2,1315.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1692.8523 1314.8298)" class="st2 st3">61 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560,1367.3h296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1845.8,1371.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1845.8,1371.5l10.2-4.2l-10.2-4.2V1371.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1570.4893 1346.8298)" class="st2 st3">62 : computeActiveArea(map: ScanMatcherMap&amp;,</text>
+			<text transform="matrix(1 0 0 1 1572.6379 1359.8298)" class="st2 st3">p: const OrientedPoint&amp;, readings: const double*)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1856" y="1367.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1856,1367.3h13v28h-13V1367.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1856,1391.3h-296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2,1387.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1692.8523 1386.8298)" class="st2 st3">63 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560,1431.3h296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1845.8,1435.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1845.8,1435.5l10.2-4.2l-10.2-4.2V1435.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1573.6338 1417.8298)" class="st2 st3">64 : registerScan(map: ScanMatcherMap&amp;, p:</text>
+			<text transform="matrix(1 0 0 1 1570.3647 1430.8298)" class="st2 st3">const OrientedPoint&amp;, readings: const double*)</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1856" y="1431.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1856,1431.3h13v28h-13V1431.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1856,1455.3h-296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1570.2,1451.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1692.8523 1450.8298)" class="st2 st3">65 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1560,1487.3h296"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path d="M1845.8,1491.5l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1845.8,1491.5l10.2-4.2l-10.2-4.2V1491.5"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1853,1525.3l20,20"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1873,1525.3l-20,20"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1693.8523 1507.8298)" class="st2 st3">66 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1679.5 1483.8298)" class="st2 st3">«destroy»</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<rect x="1856" y="1487.3" class="st1" width="13" height="28"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1856,1487.3h13v28h-13V1487.3z"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st9" d="M1547,1583.3h-393"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1164.2,1579.1l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1335.8523 1599.8298)" class="st2 st3">67 :</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1753-568.7h1200v1384H1753V-568.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M1753-568.7v22h97.6l11-11v-11H1753"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1753-568.7v22h97.6l11-11v-11H1753L1753-568.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1777.73 -551.17)" class="st2 st3">timeToScan</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1758 -551.17)" class="st4 st3">alt</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1772.5 -518.17)" class="st2 st3">[if !m_count || timeToScan]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1929-560.7h968v1248h-968V-560.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M1929-560.7v22h80.3l11-11v-11H1929"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1929-560.7v22h80.3l11-11v-11H1929L1929-560.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1953.73 -543.17)" class="st2 st3">firstScan</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1934 -543.17)" class="st4 st3">alt</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1948.5 -510.17)" class="st2 st3">[if m_count&gt;0]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st29" d="M1929,416.3h968"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st29" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1948.5 443.83)" class="st2 st3">[else]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1321,855.3h856v720h-856V855.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M1321,855.3v22h81.1l11-11v-11H1321"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1321,855.3v22h81.1l11-11v-11H1321L1321,855.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1345.73 872.83)" class="st2 st3">addScan</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1326 872.83)" class="st4 st3">alt</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1340.5 905.83)" class="st2 st3">[if addScan]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1345,1079.3h648v480h-648V1079.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M1345,1079.3v22h96.9l11-11v-11H1345"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1345,1079.3v22h96.9l11-11v-11H1345L1345,1079.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1369.73 1096.8298)" class="st2 st3">mapUpdate</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1350 1096.8298)" class="st4 st3">alt</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1364.5 1129.8298)" class="st2 st3">[!gotMap || timeForUpdate]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1393-1168.7h824v272h-824V-1168.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M1393-1168.7v22h29.7l11-11v-11H1393"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1393-1168.7v22h29.7l11-11v-11H1393L1393-1168.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1398 -1151.17)" class="st4 st3">alt</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1412.5 -1118.17)" class="st2 st3">[if !got_first_scan]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2001,439.3h864v232h-864V439.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M2001,439.3v22h92.6l11-11v-11H2001"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2001,439.3v22h92.6l11-11v-11H2001L2001,439.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2036.5781 456.83)" class="st2 st3">particle it</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2006 456.83)" class="st4 st3">loop</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2020.5 489.83)" class="st2 st3">[m_particles.size()]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1953-504.7h888v248h-888V-504.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M1953-504.7v22h92.6l11-11v-11H1953"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1953-504.7v22h92.6l11-11v-11H1953L1953-504.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1988.5781 -487.17)" class="st2 st3">particle it</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1958 -487.17)" class="st4 st3">loop</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1972.5 -454.17)" class="st2 st3">[m_particles.end()]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1993-784.7h536v96h-536V-784.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M1993-784.7v22h92.6l11-11v-11H1993"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1993-784.7v22h92.6l11-11v-11H1993L1993-784.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2028.5781 -767.17)" class="st2 st3">particle it</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1998 -767.17)" class="st4 st3">loop</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2012.5 -734.17)" class="st2 st3">[m_particles.end()]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1945-96.7h920v496h-920V-96.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M1945-96.7v22h88.7l11-11v-11H1945"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M1945-96.7v22h88.7l11-11v-11H1945L1945-96.7"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1969.73 -79.17)" class="st2 st3">lowEffPart</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1950 -79.17)" class="st4 st3">alt</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1964.5 -46.17)" class="st2 st3">[if neff &lt; part*thresh]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st29" d="M1945,256.3h920"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st29" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 1964.5 283.83)" class="st2 st3">[else]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2001,271.3h848v104h-848V271.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M2001,271.3v22h92.6l11-11v-11H2001"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2001,271.3v22h92.6l11-11v-11H2001L2001,271.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2036.5781 288.83)" class="st2 st3">particle it</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2006 288.83)" class="st4 st3">loop</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2020.5 321.83)" class="st2 st3">[m_particles.end()]</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2001,143.3h847v104h-847V143.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st1" d="M2001,143.3v22h92.6l11-11v-11H2001"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<path class="st0" d="M2001,143.3v22h92.6l11-11v-11H2001L2001,143.3"/>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path class="st0" d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2036.5781 160.83)" class="st2 st3">particle it</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2006 160.83)" class="st4 st3">loop</text>
+		</g>
+	</g>
+	<g transform="translate(10,10) scale(1,1)">
+		<g>
+			<path d="M961-1304.7"/>
+			<text transform="matrix(1 0 0 1 2020.5 193.83)" class="st2 st3">[m_particles.end()]</text>
+		</g>
+	</g>
+</g>
+</svg>

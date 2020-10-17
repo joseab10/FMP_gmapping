@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="403px" viewBox="8 219.9 612 403" style="enable-background:new 8 219.9 612 403;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:#C0C0C0;enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:13px;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3;}
+	.st6{font-family:'ArialMT';}
+</style>
+<g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<rect x="415" y="334.9" class="st0" width="177" height="39"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<rect x="408" y="327.9" class="st1" width="177" height="39"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st2" d="M408,327.9h177v39H408V327.9z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 287.2446 317.39)" class="st3 st4">gn_: SlamGmapping</text>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st5" d="M497.5,367.9v275"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<rect x="175" y="266.9" class="st0" width="72" height="39"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<rect x="168" y="259.9" class="st1" width="72" height="39"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st2" d="M168,259.9h72v39h-72V259.9z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 39.9114 249.39)" class="st3 st4">main</text>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st5" d="M205.5,299.9v343"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<rect x="695" y="266.9" class="st0" width="72" height="39"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<rect x="688" y="259.9" class="st1" width="72" height="39"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st2" d="M688,259.9h72v39h-72V259.9z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 549.7869 249.39)" class="st3 st4">Lifeline1</text>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st5" d="M725.5,299.9v159"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st5" d="M205,347.9h203"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st2" d="M397.8,352.1l10.2-4.2l-10.2-4.2"/>
+	</g>
+	<text transform="matrix(1 0 0 1 83.5 314.39)" class="st6 st4">1 : gn_=SlamGmapping()</text>
+	<text transform="matrix(1 0 0 1 130.5 299.39)" class="st6 st4">«create»</text>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st2" d="M497,395.9h30v20h-24"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path d="M513.2,411.7l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st2" d="M513.2,411.7l-10.2,4.2l10.2,4.2V411.7"/>
+	</g>
+	<text transform="matrix(1 0 0 1 364.3291 362.39)" class="st6 st4">2 : init()</text>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<rect x="490" y="415.9" class="st1" width="13" height="100"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st2" d="M490,415.9h13v100h-13V415.9z"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st5" d="M497,603.9H205"/>
+	</g>
+	<g transform="translate(-150,-30) scale(1,1)">
+		<path class="st2" d="M215.2,599.7l-10.2,4.2l10.2,4.2"/>
+	</g>
+	<text transform="matrix(1 0 0 1 190.9673 590.39)" class="st6 st4">3 :</text>
+</g>
+</svg>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1308px" height="1380px" viewBox="356 -270.1 1308 1380" style="enable-background:new 356 -270.1 1308 1380;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:#C0C0C0;enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:13px;}
+	.st5{fill:#D8D8FF;}
+	.st6{font-family:'ArialMT';}
+</style>
+<g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<rect x="674" y="-182.1" class="st0" width="515.2" height="15"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<rect x="674" y="-168.1" class="st0" width="1288" height="1346"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<rect x="667" y="-174.1" class="st1" width="1288" height="1345"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M667-174.1h1288v1345H667V-174.1z"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<rect x="667" y="-189.1" class="st1" width="515.2" height="15"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M667-189.1h515.2v15H667V-189.1z"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<rect x="667" y="-175.1" class="st1" width="1288" height="1346"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M667-175.1h1288v1346H667V-175.1z"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M1174.2-186.1v4"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M1171.2-178.1v-4h6"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M1177.2-178.1v-4h-6"/>
+	</g>
+	<text transform="matrix(1 0 0 1 944.6128 -225.61)" class="st3 st4">ROS SLAM Gmapping</text>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<rect x="730" y="-118.1" class="st0" width="559.1" height="1255"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<rect x="723" y="-125.1" class="st5" width="559.1" height="1255"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M723-125.1h559.1v1255H723V-125.1z"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M723-100.1h559.1"/>
+	</g>
+	<g transform="translate(-301,-71) scale(1,1)">
+		<path class="st2" d="M723,882.9h559.1"/>
+	</g>
+	<text transform="matrix(1 0 0 1 656.739 -176.61)" class="st3 st4">SlamGmapping</text>
+	<text transform="matrix(1 0 0 1 427 -153.61)" class="st6 st4">-node_: NodeHandle</text>
+	<text transform="matrix(1 0 0 1 427 -138.61)" class="st6 st4">-entropy_publisher_: Publisher</text>
+	<text transform="matrix(1 0 0 1 427 -123.61)" class="st6 st4">-sst_: Publisher</text>
+	<text transform="matrix(1 0 0 1 427 -108.61)" class="st6 st4">-sstm_: Publisher</text>
+	<text transform="matrix(1 0 0 1 427 -93.61)" class="st6 st4">-ss_: ServiceServer</text>
+	<text transform="matrix(1 0 0 1 427 -78.61)" class="st6 st4">-tf_: TransformListener</text>
+	<text transform="matrix(1 0 0 1 427 -63.61)" class="st6 st4">-scan_filter_sub_: Subscriber&lt;LaserScan&gt;*</text>
+	<text transform="matrix(1 0 0 1 427 -48.61)" class="st6 st4">-scan_filter_: MessageFilter&lt;LaserScan&gt;*</text>
+	<text transform="matrix(1 0 0 1 427 -33.61)" class="st6 st4">-tfB_: TransformBroadcaster*</text>
+	<text transform="matrix(1 0 0 1 427 -18.61)" class="st6 st4">-gsp_: GridSlamProcessor*</text>
+	<text transform="matrix(1 0 0 1 427 -3.61)" class="st6 st4">-gsp_laser_: RangeSensor*</text>
+	<text transform="matrix(1 0 0 1 427 11.39)" class="st6 st4">-laser_angles_: vector&lt;double&gt;</text>
+	<text transform="matrix(1 0 0 1 427 26.39)" class="st6 st4">-centered_laser_pose_: Stamped&lt;Pose&gt;</text>
+	<text transform="matrix(1 0 0 1 427 41.39)" class="st6 st4">-do_reverse_range_: bool</text>
+	<text transform="matrix(1 0 0 1 427 56.39)" class="st6 st4">-gsp_laser_beam_count_: unsigned int</text>
+	<text transform="matrix(1 0 0 1 427 71.39)" class="st6 st4">-gsp_odom_: OdometrySensor*</text>
+	<text transform="matrix(1 0 0 1 427 86.39)" class="st6 st4">-got_first_scan_: bool</text>
+	<text transform="matrix(1 0 0 1 427 101.39)" class="st6 st4">-got_map_: bool</text>
+	<text transform="matrix(1 0 0 1 427 116.39)" class="st6 st4">-map_: Response</text>
+	<text transform="matrix(1 0 0 1 427 131.39)" class="st6 st4">-map_update_interval_: Duration</text>
+	<text transform="matrix(1 0 0 1 427 146.39)" class="st6 st4">-map_to_odom_: Transform</text>
+	<text transform="matrix(1 0 0 1 427 161.39)" class="st6 st4">-map_to_odom_mutex_: mutex</text>
+	<text transform="matrix(1 0 0 1 427 176.39)" class="st6 st4">-map_mutex_: mutex</text>
+	<text transform="matrix(1 0 0 1 427 191.39)" class="st6 st4">-laser_count_: int</text>
+	<text transform="matrix(1 0 0 1 427 206.39)" class="st6 st4">-throttle_scans_: int</text>
+	<text transform="matrix(1 0 0 1 427 221.39)" class="st6 st4">-transform_thread_: thread*</text>
+	<text transform="matrix(1 0 0 1 427 236.39)" class="st6 st4">-base_frame_: string</text>
+	<text transform="matrix(1 0 0 1 427 251.39)" class="st6 st4">-laser_frame_: string</text>
+	<text transform="matrix(1 0 0 1 427 266.39)" class="st6 st4">-map_frame_: string</text>
+	<text transform="matrix(1 0 0 1 427 281.39)" class="st6 st4">-odom_frame_: string</text>
+	<text transform="matrix(1 0 0 1 427 296.39)" class="st6 st4">-maxRange_: double</text>
+	<text transform="matrix(1 0 0 1 427 311.39)" class="st6 st4">-maxUrange_: double</text>
+	<text transform="matrix(1 0 0 1 427 326.39)" class="st6 st4">-maxrange_: double</text>
+	<text transform="matrix(1 0 0 1 427 341.39)" class="st6 st4">-minimum_score_: double</text>
+	<text transform="matrix(1 0 0 1 427 356.39)" class="st6 st4">-sigma_: double</text>
+	<text transform="matrix(1 0 0 1 427 371.39)" class="st6 st4">-kernelSize_: int</text>
+	<text transform="matrix(1 0 0 1 427 386.39)" class="st6 st4">-lstep_: double</text>
+	<text transform="matrix(1 0 0 1 427 401.39)" class="st6 st4">-astep_: double</text>
+	<text transform="matrix(1 0 0 1 427 416.39)" class="st6 st4">-iterations_: int</text>
+	<text transform="matrix(1 0 0 1 427 431.39)" class="st6 st4">-lsigma_: double</text>
+	<text transform="matrix(1 0 0 1 427 446.39)" class="st6 st4">-ogain_: double</text>
+	<text transform="matrix(1 0 0 1 427 461.39)" class="st6 st4">-lskip_: int</text>
+	<text transform="matrix(1 0 0 1 427 476.39)" class="st6 st4">-srr_: double</text>
+	<text transform="matrix(1 0 0 1 427 491.39)" class="st6 st4">-srt_: double</text>
+	<text transform="matrix(1 0 0 1 427 506.39)" class="st6 st4">-str_: double</text>
+	<text transform="matrix(1 0 0 1 427 521.39)" class="st6 st4">-stt_: double</text>
+	<text transform="matrix(1 0 0 1 427 536.39)" class="st6 st4">-linearUpdate_: double</text>
+	<text transform="matrix(1 0 0 1 427 551.39)" class="st6 st4">-angularUpdate_: double</text>
+	<text transform="matrix(1 0 0 1 427 566.39)" class="st6 st4">-temporalUpdate_: double</text>
+	<text transform="matrix(1 0 0 1 427 581.39)" class="st6 st4">-resampleThreshold_: double</text>
+	<text transform="matrix(1 0 0 1 427 596.39)" class="st6 st4">-particles_: int</text>
+	<text transform="matrix(1 0 0 1 427 611.39)" class="st6 st4">-xmin_: double</text>
+	<text transform="matrix(1 0 0 1 427 626.39)" class="st6 st4">-ymin_: double</text>
+	<text transform="matrix(1 0 0 1 427 641.39)" class="st6 st4">-xmax_: double</text>
+	<text transform="matrix(1 0 0 1 427 656.39)" class="st6 st4">-ymax_: double</text>
+	<text transform="matrix(1 0 0 1 427 671.39)" class="st6 st4">-delta_: double</text>
+	<text transform="matrix(1 0 0 1 427 686.39)" class="st6 st4">-occ_thresh_: double</text>
+	<text transform="matrix(1 0 0 1 427 701.39)" class="st6 st4">-llsamplerange_: double</text>
+	<text transform="matrix(1 0 0 1 427 716.39)" class="st6 st4">-llsamplestep_: double</text>
+	<text transform="matrix(1 0 0 1 427 731.39)" class="st6 st4">-lasamplerange_: double</text>
+	<text transform="matrix(1 0 0 1 427 746.39)" class="st6 st4">-lasamplestep_: double</text>
+	<text transform="matrix(1 0 0 1 427 761.39)" class="st6 st4">-private_nh_: NodeHandle</text>
+	<text transform="matrix(1 0 0 1 427 776.39)" class="st6 st4">-seed_: unsigned long int</text>
+	<text transform="matrix(1 0 0 1 427 791.39)" class="st6 st4">-transform_publish_period_: double</text>
+	<text transform="matrix(1 0 0 1 427 806.39)" class="st6 st4">-tf_delay_: double</text>
+	<text transform="matrix(1 0 0 1 427 829.39)" class="st6 st4">«constructor»+SlamGmapping()</text>
+	<text transform="matrix(1 0 0 1 427 844.39)" class="st6 st4">«constructor»+SlamGmapping(nh: NodeHandle, pnh: NodeHandle)</text>
+	<text transform="matrix(1 0 0 1 427 859.39)" class="st6 st4">«constructor»+SlamGmapping(seed: unsigned long int, max_duration_buffer: unsigned long int)</text>
+	<text transform="matrix(1 0 0 1 427 874.39)" class="st6 st4">«destructor»+~~SlamGmapping()</text>
+	<text transform="matrix(1 0 0 1 427 889.39)" class="st6 st4">+init()</text>
+	<text transform="matrix(1 0 0 1 427 904.39)" class="st6 st4">+startLiveSlam()</text>
+	<text transform="matrix(1 0 0 1 427 919.39)" class="st6 st4">+startReplay(bag_fname: const string *, scan_topic: string)</text>
+	<text transform="matrix(1 0 0 1 427 934.39)" class="st6 st4">+publishTransform()</text>
+	<text transform="matrix(1 0 0 1 427 949.39)" class="st6 st4">+laserCallback(scan: const LaserScan*)</text>
+	<text transform="matrix(1 0 0 1 427 964.39)" class="st6 st4">+mapCallback(req: Reqest&amp;, res Response&amp;)</text>
+	<text transform="matrix(1 0 0 1 427 979.39)" class="st6 st4">+publishLoop(transform_publish_period: double)</text>
+	<text transform="matrix(1 0 0 1 427 994.39)" class="st6 st4">-updateMap(scan: LaserScan&amp;)</text>
+	<text transform="matrix(1 0 0 1 427 1009.39)" class="st6 st4">-getOdomPose(gmap_pose: OrientedPose&amp;, t: const Time&amp;): bool</text>
+	<text transform="matrix(1 0 0 1 427 1024.39)" class="st6 st4">-initMapper(scan: const LaserScan&amp;): bool</text>
+	<text transform="matrix(1 0 0 1 427 1039.39)" class="st6 st4">-addScan(scan: const LaserScan&amp;, gmap_pose: OrientedPose&amp;): bool</text>
+	<text transform="matrix(1 0 0 1 427 1054.39)" class="st6 st4">-computePoseEntropy()</text>
+</g>
+</svg>
