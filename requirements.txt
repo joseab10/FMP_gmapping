@@ -13,6 +13,6 @@ rostest~=1.14.6
 catkin~=0.7.26
 genpy~=0.6.12
 roslaunch~=1.14.6
-psutil~=5.4.2
+psutil>=5.6.6
 scipy~=1.2.3
 
