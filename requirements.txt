@@ -9,7 +9,6 @@ simplejson~=3.13.2
 scikit-image~=0.14.5
 argparse~=1.2.1
 rospkg~=1.2.8
-Pillow~=6.2.2
 rostest~=1.14.6
 catkin~=0.7.26
 genpy~=0.6.12
