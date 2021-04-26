@@ -1,0 +1,12 @@
+<launch>
+
+
+    <arg name="ts" value="$(eval 'd' in 'abc' and 'd' in 'def')" />
+
+    <param name="dir_timestamp" value="$(arg ts)"/>
+
+    <node name="echo" pkg="fmp_gmapping" type="echo.py" output="screen">
+
+    </node>
+
+</launch>
