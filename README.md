@@ -12,7 +12,7 @@ by Lukas Luft, Alexander Schaefer, Tobias Schubert and Wolfram Burgard.
 #### Downloading
 In a computer with ROS installed, download or clone the repository:
 ```console
-foo@bar:-$ git clone https://github.com/joseab10/FMP_gmapping
+foo@bar:-$ git clone --recurse-submodules https://github.com/joseab10/FMP_gmapping
 ```
 
 #### Compiling
@@ -46,6 +46,36 @@ In a command line terminal:
     foo@bar:-$ source devel/setup.bash
    
 ### Running
+
+#### Full Map Posterior SLAM
+To execute the full SLAM stack, including:
+  * saving debug log files
+  * generating files for the translational and rotational errors
+  * computing the Ground Truth and Odometry Maps
+  * Saving all the occupancy maps
+  * Generating and saving the Posterior Distribution Maps
+ 
+
+a python wrapper for the launch file exist in the `map_simulator` submodule for running everything.
+
+```console
+foo@bar:-$ rosrun map_simulator experiment.py
+```
+
+
+Alternatively, the launch files from the `map_simulator` submodule can also be executed normally.
+
+ In order to start a launch file, with the environment properly set to the FMP_gmapping workspace, run:
+```console
+foo@bar:-$ roslaunch map_simulator <launch_file>
+```
+where:
+   * `<launch_file>` is one of the many files in `src/map_simulator/launch/`
+   
+However, this will not automatically add a timestamp to the results directories, nor will it redirect the ROS debug and log files to the experiment directory.
+   
+
+
 
 #### Test Datasets
 The workspace includes several benchmark datasets in the `data/` directory, as well as preconfigured ***roslaunch***
